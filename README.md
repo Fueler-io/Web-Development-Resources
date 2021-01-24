@@ -143,16 +143,16 @@ https://javascript.info
 https://bonsaiden.github.io/JavaScript-Garden/?ref=java5cript.com
 
 6. Code Academy 
-https://codecademy.com/learn/introduction-to-javascript?utm_source=pepperjam&utm_medium=affiliate&utm_campaign=214453&clickId=3454915480&pj_creativeid=8-12462&pj_publisherid=214453
+https://codecademy.com/learn/introduction-to-javascript
 
 7. Udemy
-https://udemy.com/course/the-complete-javascript-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-X_xUTpfdjS0vILzmtHuH2g&utm_medium=udemyads&utm_source=aff-campaign
+https://udemy.com/course/the-complete-javascript-course/
 
 8. Coursera
-https://coursera.org/learn/javascript?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-zSo6bi.8fFla26zkh8eR3Q&siteID=JVFxdTr9V80-zSo6bi.8fFla26zkh8eR3Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80
+https://coursera.org/learn/javascript
 
 9. Plural Sight 
-https://pluralsight.com/courses/quick-start-javascript-1-1870?aid=7010a000002BZNLAA4
+https://pluralsight.com/courses/quick-start-javascript-1-1870
 
 10. Scrimba
 https://scrimba.com/topic/javascript
