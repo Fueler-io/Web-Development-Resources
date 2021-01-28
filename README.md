@@ -2,21 +2,21 @@
 
 ## Table of Content
 
-- [Free Hosting](#free-hosting)
-- [Learning Platforms](#learning-platforms)
-- [YouTube Channels](#youtube-channels)
-- [Podcasts](#podcasts)
-- [Code Editor](#code-editors)
-- [Coding Challenge Platforms](#coding-challenge-platforms)
-- [Freelancing platforms](#freelancing-platforms)
-- [Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
-- [Free Quality Photos](#free-quality-photos)
-- [Free Illustration Design](#free-illustration-design)
-- [Icons](#icons)
-- [Fonts](#fonts)
-- [Resources for CSS](#resources-for-css)
-- [Resources for JavaScript](#resources-for-javascript)
-- [Credit](#credit)
+- [🆓Free Hosting](#free-hosting)
+- [👨🏻‍🏫Learning Platforms](#learning-platforms)
+- [⛓️YouTube Channels](#youtube-channels)
+- [🎙️Podcasts](#podcasts)
+- [👩🏻‍💻Code Editor](#code-editors)
+- [🛄Coding Challenge Platforms](#coding-challenge-platforms)
+- [🛫Freelancing platforms](#freelancing-platforms)
+- [🏢Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
+- [📷Free Quality Photos](#free-quality-photos)
+- [🎨Free Illustration Design](#free-illustration-design)
+- [🔼Icons](#icons)
+- [🆎Fonts](#fonts)
+- [🏜️Resources for CSS](#resources-for-css)
+- [🈴Resources for JavaScript](#resources-for-javascript)
+- [👻Credit](#credit)
 
 
 
@@ -487,4 +487,6 @@ https://jsbeginners.com/javascript-projects-for-beginners/
 - [Pratham](https://twitter.com/Prathkum)
 - [Marko Denic](https://twitter.com/denicmarko)
 
+
+[Discover KiwisMedia](https://i.ibb.co/qWGW5Ky/CTA1.png)
 
