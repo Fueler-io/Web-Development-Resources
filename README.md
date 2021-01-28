@@ -1,5 +1,4 @@
-# Web-Development-Awesome-Resources
-
+![Hero Image](https://i.ibb.co/mSPGK07/Web-Repo-banner2.png)
 
 ## Table of Content
 
