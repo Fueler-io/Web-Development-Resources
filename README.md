@@ -1,5 +1,16 @@
 # Web-Development-Awesome-Resources
 
+
+## Table of Content
+
+- [Free Hosting](#free-hosting)
+- [Learning Platforms](#learning-platform)
+- [YouTube Channels](#youtube-channels)
+- [Podcasts](#podcasts)
+- [Code Editor](#code-editor)
+
+
+
 ### Free Hosting:
 
 - http://netlify.com
