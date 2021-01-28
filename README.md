@@ -123,6 +123,203 @@
 - http://1001fonts.com
 - http://fontsquirrel.com
 
+### Resources for CSS
+
+1. Color Hunt
+https://colorhunt.co
+
+2. Coolors
+https://coolors.co
+
+3. HTML color codes
+https://htmlcolorcodes.com
+
+4. UI Gradients 
+https://uigradients.com/#Bupe
+
+5. Gradient generator
+cssgradient.io
+
+6. Encycolorpedia
+https://encycolorpedia.com
+
+7. WebFx 
+https://webfx.com/web-design/color-picker/
+
+8. Radial Gradient 
+https://css-gradient.com
+
+9. COLORS
+https://clrs.cc
+
+10. Flat UI colors 2
+https://flatuicolors.com/
+
+#### CODE SNIPPETS
+
+11. Web tools
+https://webcode.tools/css-generator
+
+12. Little snippets
+https://littlesnippets.net
+
+13. Enjoy CSS 
+https://enjoycss.com
+
+14. CSS Tricks 
+https://css-tricks.com/snippets/css/
+
+15. CSS Deck 
+https://cssdeck.com
+
+16. W3 How to
+https://w3schools.com/howto/
+
+17. Snipplr
+https://snipplr.com
+
+18. Stack overflow
+https://stackoverflow.com/questions/tagged/css
+
+19. Codepen
+https://codepen.io/collection/DYpwPE
+
+20. Code my UI
+https://codemyui.com/
+
+#### DOCUMENTATION AND NOTES
+
+21. W3 Schools
+https://w3schools.com/css/
+
+22. MDN 
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+23. DevDocs
+https://devdocs.io/css/
+
+24. Geeks for geeks
+https://geeksforgeeks.org/css-tutorials/
+
+25. Tutorials point
+https://tutorialspoint.com/css/index.html
+
+#### CSS GENERATORS
+
+26. CSS button creator
+https://cssbuttoncreator.com
+
+27. Blob Maker
+https://blobmaker.app
+
+28. Waves maker
+https://getwaves.io
+
+29. Enjoy CSS 
+https://enjoycss.com
+
+30. Neumorphic UI
+https://neumorphism.io/#e0e0e0
+
+31. Glassmorphism Generator
+https://glassmorphism.com
+
+32. Keyframes
+https://keyframes.app
+
+33. Animista 
+https://animista.net
+
+34. Fancy border 
+https://9elements.github.io/fancy-border-radius/
+
+35. CSS Generators tool
+https://cssgenerator.org/
+
+36. CSS 3 maker 
+https://css3maker.com
+
+37. CSS clip path maker
+https://bennettfeely.com/clippy/
+
+38. CSS shapes generator
+https://coveloping.com/tools/css-shapes-generator
+
+39. Pattern generator 
+http://patternify.com
+
+40. Background image generator 
+http://bg.siteorigin.com
+
+#### DESIGN INSPIRATION
+
+41. CSS design awards
+https://cssdesignawards.com
+
+42. Awwwards
+https://awwwards.com/websites/css3/
+
+43. CSS nectar
+https://cssnectar.com
+
+44. Design modo 
+https://designmodo.com/css-website-designs/
+
+45. CSS winner
+https://csswinner.com
+
+#### YOUTUBE TUTORIALS
+
+46. Free code camp 
+https://youtube.com/watch?v=1Rs2ND1ryYc
+
+47. Traversy media
+https://youtube.com/watch?v=yfoY53QXEnI
+
+48. Coding artist
+https://youtube.com/channel/UC15exV5s79D_aYGADudlwpQ
+
+49. Edureka 
+https://youtube.com/watch?v=3_9znKVNe5g
+
+50. Red Stapler
+https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg
+
+#### GITHUB REPO
+
+51. Awesome CSS 
+https://github.com/awesome-css-group/awesome-css
+
+52. 30 seconds of CSS
+https://github.com/30-seconds/30-seconds-of-css
+
+53. CSS Protips
+https://github.com/AllThingsSmitty/css-protips
+
+54. Awesome flexbox
+https://github.com/afonsopacifer/awesome-flexbox
+
+55. Understanding flexbox
+https://github.com/ohansemmanuel/Understanding-Flexbox
+
+#### CHROME EXTENSIONS
+
+59. CSS Peeper 
+https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en  
+
+60. Pesticide 
+https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en
+
+61. Stylebot 
+https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
+
+62. Perfect Pixel 
+https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
+
+63. Colorpick eyedropper
+https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+
+
 ### Resources for learning JavaScript
 
 DOCUMENTATION 
