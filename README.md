@@ -322,8 +322,6 @@ https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgc
 
 ### Resources for learning JavaScript
 
-DOCUMENTATION 
-
 1. MDN
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
