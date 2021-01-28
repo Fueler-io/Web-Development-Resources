@@ -10,11 +10,18 @@
 - [Coding Challenge Platforms](#coding-challenge-platforms)
 - [Freelancing platforms](#freelancing-platforms)
 - [Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
+- [Free Quality Photos](#free-quality-photos)
+- [Free Illustration Design](#free-illustration-design)
+- [Icons](#icons)
+- [Fonts](#fonts)
+- [Resources for CSS](#resources-for-css)
+- [Resources for JavaScript](#resources-for-javascript)
+- [Credit](#credit)
 
 
 
 
-### Free Hosting:
+## Free Hosting:
 
 - http://netlify.com
 - http://firebase.google.com
@@ -26,7 +33,7 @@
 - http://render.com
 - http://docs.gitlab.com/ee/user/project/pages
 
-### Learning Platforms:
+## Learning Platforms:
 
 - http://freecodecamp.org
 - http://codecademy.com
@@ -37,32 +44,36 @@
 - http://khanacademy.org
 - http://sololearn.com
 
-### Youtube Channels:
+## Youtube Channels:
 
-- Traversy Media
-- FreeCodeCamp
-- The Net Ninja
-- Google Chrome Developers
-- The New Boston
-- Derek Banas
-- Academind
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
+- [The New Boston](https://www.youtube.com/user/thenewboston)
+- [Derek Banas](https://www.youtube.com/user/derekbanas)
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+- [codeSTACKR](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 
-### Podcasts:
+## Podcasts:
 
-- Syntax
-- Fullstack radio
-- The Changelog
-- The Laracasts Snippet
-- Front End Happy Hour
-- JavaScript Jabber Archives
-- Commit Your Code!
-- Shop Talk
-- Ladybug Podcast
-- CodePen Radio
-- JAMStack Radio
-- Modern web
+- [Syntax](https://syntax.fm/)
+- [Fullstack radio](https://fullstackradio.com/)
+- [The Changelog](https://changelog.com/podcast)
+- [The Laracasts Snippet](https://laracasts.com/podcast)
+- [Front End Happy Hour](https://frontendhappyhour.com/)
+- [JavaScript Jabber Archives](https://devchat.tv/podcasts/js-jabber/page/2/)
+- [Commit Your Code!](https://open.spotify.com/show/7wVj2PXao1Z8KUuVXxO009)
+- [Shop Talk](https://shoptalkpodcast.com/)
+- [Ladybug Podcast](https://www.ladybug.dev/)
+- [CodePen Radio](https://radiopublic.com/codepen-radio-WJbDOl/episodes)
+- [JAMStack Radio](https://soundcloud.com/heavybit/sets/jamstack-radio)
+- [Modern web](https://modernweb.podbean.com/)
 
-### Code Editors:
+## Code Editors:
 
 - Visual Studio Code [VS Code]
 - Sublime Text
@@ -70,7 +81,7 @@
 - Brackets
 - Vim
 
-### Coding Challenge Platforms:
+## Coding Challenge Platforms:
 
 - http://codewars.com
 - http://topcoder.com
@@ -83,7 +94,7 @@
 - http://leetcode.com
 - http://spoj.com
 
-### Freelancing platforms:
+## Freelancing platforms:
 
 - http://toptal.com
 - http://upwork.com
@@ -96,7 +107,7 @@
 - http://hireable.com
 - http://6nomads.com
 
-### List of websites to find remote jobs:
+## List of websites to find remote jobs:
 
 - http://flexjobs.com
 - http://remote.co/remote-jobs
@@ -107,13 +118,13 @@
 - http://europeremotely.com
 - http://wfh.io
 
-### Free Quality Photos:
+## Free Quality Photos:
 
 - http://unsplash.com
 - http://pixabay.com
 - http://pexels.com
 
-### Illustrations:
+## Free Illustration Design:
 
 - http://undraw.co/illustrations
 - http://drawkit.io
@@ -122,7 +133,7 @@
 - http://interfacer.xyz
 - http://blush.design
 
-### Icons:
+## Icons:
 
 - http://fontawesome.com
 - http://flaticon.com
@@ -130,14 +141,14 @@
 - http://material.io/resources/icons
 - http://iconmonstr.com
 
-### Fonts:
+## Fonts:
 
 - http://fonts.google.com
 - http://fontspace.com
 - http://1001fonts.com
 - http://fontsquirrel.com
 
-### Resources for CSS
+## Resources for CSS
 
 1. Color Hunt
 https://colorhunt.co
@@ -334,7 +345,7 @@ https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdm
 https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
 
 
-### Resources for learning JavaScript
+## Resources for JavaScript
 
 1. MDN
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -470,3 +481,10 @@ https://udemy.com/course/50-projects-50-days/
 
 50. JavaScript Projects for Beginners
 https://jsbeginners.com/javascript-projects-for-beginners/
+
+## Credit
+
+- [Pratham](https://twitter.com/Prathkum)
+- [Marko Denic](https://twitter.com/denicmarko)
+
+
