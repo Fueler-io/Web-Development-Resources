@@ -1,6 +1,6 @@
 ![Hero Image](https://i.ibb.co/mSPGK07/Web-Repo-banner2.png)
 
-## Table of Content
+## Table of Contents
 
 - [🆓 Free Hosting](#free-hosting)
 - [👨🏻‍🏫 Learning Platforms](#learning-platforms)
