@@ -488,5 +488,5 @@ https://jsbeginners.com/javascript-projects-for-beginners/
 - [Marko Denic](https://twitter.com/denicmarko)
 
 
-![Discover KiwisMedia](https://i.ibb.co/7RcR4PY/CTA1.png)
+![Discover KiwisMedia](https://lh3.googleusercontent.com/pw/ACtC-3fyfUKffo3LFpq4xtR1s6ot41npFiePQ5PKws3ZxSSO7YtN0YChdzaoDyVMNUWTbe4YbpEnHHx85xtW2kcHKN0Q-CbtSgX8_yc9SdgDTZmfdWgpu6MV043mbozJVUBTls6r28bOdv--8OhLW1vi_EMxXw=w1920-h614-no?authuser=0)
 
