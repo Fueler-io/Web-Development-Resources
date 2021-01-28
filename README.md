@@ -10,7 +10,7 @@
 - [Code Editor](#code-editors)
 - [Coding Challenge Platforms](#coding-challenge-platforms)
 - [Freelancing platforms](#freelancing-platforms)
-- [Websites to find Remote Jobs](#websites-to-find-remote-jobs)
+- [Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
 
 
 
