@@ -4,10 +4,14 @@
 ## Table of Content
 
 - [Free Hosting](#free-hosting)
-- [Learning Platforms](#learning-platform)
+- [Learning Platforms](#learning-platforms)
 - [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
-- [Code Editor](#code-editor)
+- [Code Editor](#code-editors)
+- [Coding Challenge Platforms](#coding-challenge-platforms)
+- [Freelancing platforms](#freelancing-platforms)
+- [Websites to find Remote Jobs](#websites-to-find-remote-jobs)
+
 
 
 
