@@ -12,6 +12,7 @@
 - [🏢 Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
 - [📷 Free Quality Photos](#free-quality-photos)
 - [🎨 Free Illustration Design](#free-illustration-design)
+- [📚 Web-Dev Library](#web-dev-library)
 - [🔼 Icons](#icons)
 - [🆎 Fonts](#fonts)
 - [🏜️ Resources for CSS](#resources-for-css)
@@ -132,6 +133,10 @@
 - http://iradesign.io
 - http://interfacer.xyz
 - http://blush.design
+
+## Web Dev Library
+
+- [A smooth 3D tilt javascript library.](https://micku7zu.github.io/vanilla-tilt.js/)
 
 ## Icons:
 
