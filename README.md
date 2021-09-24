@@ -32,6 +32,7 @@
 - http://vercel.com
 - http://surge.sh
 - http://render.com
+- https://cloud.google.com/
 - http://docs.gitlab.com/ee/user/project/pages
 
 ## Learning Platforms:
