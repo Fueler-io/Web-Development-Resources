@@ -488,6 +488,8 @@ https://udemy.com/course/50-projects-50-days/
 50. JavaScript Projects for Beginners
 https://jsbeginners.com/javascript-projects-for-beginners/
 
+51. New Resources are coming soon
+
 ## Credit
 
 - [Pratham](https://twitter.com/Prathkum)
