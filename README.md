@@ -496,7 +496,7 @@ https://jsbeginners.com/javascript-projects-for-beginners/
 - [Marko Denic](https://twitter.com/denicmarko)
 
 
-![Fueler.io](![image](https://i.ibb.co/HX8NRxy/image.png))
+![Fueler.io](https://i.ibb.co/HX8NRxy/image.png)
 
 # [Fueler: Home for Generalists](fueler.io)
 
