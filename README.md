@@ -496,7 +496,7 @@ https://jsbeginners.com/javascript-projects-for-beginners/
 - [Marko Denic](https://twitter.com/denicmarko)
 
 
-![Discover KiwisMedia](https://lh3.googleusercontent.com/pw/ACtC-3fyfUKffo3LFpq4xtR1s6ot41npFiePQ5PKws3ZxSSO7YtN0YChdzaoDyVMNUWTbe4YbpEnHHx85xtW2kcHKN0Q-CbtSgX8_yc9SdgDTZmfdWgpu6MV043mbozJVUBTls6r28bOdv--8OhLW1vi_EMxXw=w1920-h614-no?authuser=0)
+![Fueler.io](![image](https://user-images.githubusercontent.com/30520154/134939161-602af0bb-3089-4920-8c38-c09b969ecb18.png))
 
-# [KiwisMedia: Discover human's best works](kiwismedia.com)
+# [Fueler: Home for Generalists](fueler.io)
 
