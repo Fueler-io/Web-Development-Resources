@@ -146,6 +146,7 @@
 - http://icons8.com
 - http://material.io/resources/icons
 - http://iconmonstr.com
+- https://akaricons.com/
 
 ## Fonts:
 
