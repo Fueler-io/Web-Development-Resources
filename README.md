@@ -59,6 +59,7 @@
 - [codeSTACKR](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+- [Dev Ed](https://www.youtube.com/DevEd)
 
 ## Podcasts:
 
@@ -95,6 +96,7 @@
 - http://exercism.io
 - http://leetcode.com
 - http://spoj.com
+- https://codeforces.com
 
 ## Freelancing platforms:
 
@@ -488,7 +490,15 @@ https://udemy.com/course/50-projects-50-days/
 50. JavaScript Projects for Beginners
 https://jsbeginners.com/javascript-projects-for-beginners/
 
-51. New Resources are coming soon
+51. 30 days of JavaScript
+https://github.com/Asabeneh/30-Days-Of-JavaScript 
+
+52. JavaScript The Good Parts
+https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf 
+
+53. New Resources are coming soon
+
+
 
 ## Credit
 
