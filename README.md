@@ -45,6 +45,8 @@
 - http://coursera.org
 - http://khanacademy.org
 - http://sololearn.com
+- http://codedamn.com
+- https://frontendmasters.com/
 
 ## Youtube Channels:
 
@@ -59,6 +61,7 @@
 - [codeSTACKR](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+
 
 ## Podcasts:
 
