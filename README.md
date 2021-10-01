@@ -147,6 +147,10 @@
 - http://iradesign.io
 - http://interfacer.xyz
 - http://blush.design
+- https://iconscout.com/illustration-pack/indian-doodle
+- https://openpeeps.com
+- https://app.streamlinehq.com/illustrations/milano
+- https://growwwkit.com/illustrations/phonies/
 
 ## Web Dev Library
 
