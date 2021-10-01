@@ -138,6 +138,9 @@
 - http://unsplash.com
 - http://pixabay.com
 - http://pexels.com
+- https://stocksnap.io
+- https://freephotos.cc
+- https://kaboompics.com
 
 ## Free Illustration Design:
 
