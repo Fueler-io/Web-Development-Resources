@@ -151,6 +151,28 @@
 - http://interfacer.xyz
 - http://blush.design
 
+## 3D Illustrations:
+
+- http://isometriclove.com
+- http://handz.design
+- http://free3dicon.com
+- https://www.behance.net/rafalutinski
+- https://bamdesign.gumroad.com/l/bamillu
+- https://www.behance.net/gallery/110088245/Free-3D-Slam-Illustrations
+- https://3dicons.co
+- https://www.behance.net/gallery/111365565/THIS-IS-CHLOE
+- https://10clouds.com/valentine-illustrations
+- https://amritpaldesign.com/toy-faces
+- https://kukla-kit.wannathis.one/
+- https://minima.market/faticons-medicine
+- https://homies3d.com/
+- https://loops.wannathis.one/
+- https://www.artify.co/3d-lettering
+- https://humans.wannathis.one/
+- https://threedee.design/
+- https://superscene.pro/
+- https://www.shapefest.com/
+
 ## Web Dev Library
 
 - [A smooth 3D tilt javascript library.](https://micku7zu.github.io/vanilla-tilt.js/)
