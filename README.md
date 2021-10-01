@@ -88,6 +88,8 @@
 - Atom
 - Brackets
 - Vim
+- Emacs
+- JetBrains WebStorm
 
 ## Coding Challenge Platforms:
 
