@@ -1,4 +1,4 @@
-![Hero Image](https://i.ibb.co/mSPGK07/Web-Repo-banner2.png)
+![Hero Image](https://i.ibb.co/BwHkjFp/Group-3892.png)
 
 ## Table of Contents
 
