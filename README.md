@@ -43,16 +43,23 @@
 
 ## Learning Platforms:
 
-- http://freecodecamp.org
-- http://codecademy.com
-- http://javascript30.com
-- http://frontendmentor.io
-- http://testautomationu.applitools.com
-- http://coursera.org
-- http://khanacademy.org
-- http://sololearn.com
-- http://codedamn.com
+- http://freecodecamp.org/
+- http://codecademy.com/
+- http://javascript30.com/
+- http://frontendmentor.io/
+- http://testautomationu.applitools.com/
+- http://coursera.org/
+- http://khanacademy.org/
+- http://sololearn.com/
+- http://codedamn.com/
 - https://frontendmasters.com/
+- https://w3schools.com/
+- https://htmldog.com/
+- https://www.traversymedia.com/
+- https://edx.org/
+- https://wornoffkeys.com/
+- https://webdevsimplified.com/
+- https://theodinproject.com/
 
 ## Youtube Channels:
 
@@ -68,6 +75,10 @@
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 - [Dev Ed](https://www.youtube.com/DevEd)
+- [Kevin Powell](https://www.youtube.com/user/KepowOb)
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- [Filip](https://www.youtube.com/c/FilipDev)
+- [Worn Off Keys](https://www.youtube.com/c/WornOffKeys)
 
 
 ## Podcasts:
@@ -83,7 +94,7 @@
 - [Ladybug Podcast](https://www.ladybug.dev/)
 - [CodePen Radio](https://radiopublic.com/codepen-radio-WJbDOl/episodes)
 - [JAMStack Radio](https://soundcloud.com/heavybit/sets/jamstack-radio)
-- [Modern web](https://modernweb.podbean.com/)
+- [Modern Web](https://modernweb.podbean.com/)
 
 ## Code Editors:
 
@@ -94,6 +105,8 @@
 - Vim
 - Emacs
 - JetBrains WebStorm
+- Espresso
+- Notepad++
 
 ## Coding Challenge Platforms:
 
@@ -108,6 +121,7 @@
 - http://leetcode.com
 - http://spoj.com
 - https://codeforces.com
+- https://open.kattis.com
 
 ## Freelancing platforms:
 
