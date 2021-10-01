@@ -18,6 +18,7 @@
 - [🏜️ Resources for CSS](#resources-for-css)
 - [🈴 Resources for JavaScript](#resources-for-javascript)
 - [👻 Credit](#credit)
+- [😎 Helpful Chrome Extensions](#helpful-chrome-extensions)
 
 
 
@@ -34,6 +35,11 @@
 - http://render.com
 - https://cloud.google.com/
 - http://docs.gitlab.com/ee/user/project/pages
+- https://byet.host/
+- https://www.hostinger.in/free-web-hosting
+- http://hyperphp.com/
+- https://infinityfree.net/
+- https://www.freehosting.com/
 
 ## Learning Platforms:
 
@@ -490,6 +496,19 @@ https://jsbeginners.com/javascript-projects-for-beginners/
 
 51. New Resources are coming soon
 
+## Helpful Chrome Extensions
+1. Responsive Web Design Tester
+  https://chrome.google.com/webstore/detail/responsive-web-design-tes/enhcpefphhaiikpobimgcakinhabgiib/related?utm_source=chrome-ntp-icon
+2. Full Page Screen Capture
+  https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?utm_source=chrome-ntp-icon
+3. Light House
+  https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?utm_source=chrome-ntp-icon
+4. Css Peeper
+  https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?utm_source=chrome-ntp-icon
+5. ColorPick Eyedropper
+ https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
+6.  What Font
+  https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
 ## Credit
 
 - [Pratham](https://twitter.com/Prathkum)
