@@ -525,10 +525,7 @@ https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pd
  https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
 6.  What Font
   https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
-## Credit
 
-- [Pratham](https://twitter.com/Prathkum)
-- [Marko Denic](https://twitter.com/denicmarko)
 
 
 ![Fueler.io](https://i.ibb.co/HX8NRxy/image.png)
