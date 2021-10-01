@@ -556,6 +556,16 @@ https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pd
 
 
 
+## Coding Challenges:
+1. #100DaysOfCode
+  https://www.100daysofcode.com/
+2. #JavaScript30
+  https://javascript30.com/
+3. #100DaysCSS
+  https://100dayscss.com/
+
+  
+
 ![Fueler.io](https://i.ibb.co/HX8NRxy/image.png)
 
 # [Fueler: Home for Generalists](fueler.io)
