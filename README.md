@@ -200,6 +200,9 @@ https://clrs.cc
 10. Flat UI colors 2
 https://flatuicolors.com/
 
+11. Colormind
+http://colormind.io/
+
 #### CODE SNIPPETS
 
 11. Web tools
