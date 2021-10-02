@@ -84,6 +84,15 @@
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - [Catalin Pit](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg)
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- [Sonny Sangha](https://www.youtube.com/user/ssangha32)
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+- [Codedamn](https://www.youtube.com/c/codedamn)
+- [Dapp University](https://www.youtube.com/c/DappUniversity)
+- [Adrian Twarog](https://www.youtube.com/c/AdrianTwarog)
+- [Hitesh Choudhary](https://www.youtube.com/c/HiteshChoudharydotcom)
+- [DesignCode](https://www.youtube.com/c/DesignCodeTeam)
+- [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 
 ## Podcasts:
 
@@ -129,6 +138,8 @@
 - http://spoj.com
 - https://codeforces.com
 - https://open.kattis.com
+- https://www.hackerearth.com
+- https://practice.geeksforgeeks.org/
 
 ## Freelancing platforms:
 
