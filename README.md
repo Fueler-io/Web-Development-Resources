@@ -59,6 +59,7 @@
 - https://webdevsimplified.com/
 - https://theodinproject.com/
 - https://fullstackopen.com/en/
+- https://tutorial.djangogirls.org/
 
 ## Youtube Channels:
 
@@ -263,6 +264,9 @@
 
 11. Colormind
     http://colormind.io/
+    
+12. Cssbuttons.io
+    https://cssbuttons.io/
 
 #### CODE SNIPPETS
 
