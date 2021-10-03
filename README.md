@@ -60,6 +60,7 @@
 - https://webdevsimplified.com/
 - https://theodinproject.com/
 - https://fullstackopen.com/en/
+- https://tutorial.djangogirls.org/
 - https://www.educba.com/
 -  https://openclassrooms.com/
 -  https://www.programiz.com/
@@ -291,6 +292,9 @@
 
 11. Colormind
     http://colormind.io/
+    
+12. Cssbuttons.io
+    https://cssbuttons.io/
 
 #### CODE SNIPPETS
 
