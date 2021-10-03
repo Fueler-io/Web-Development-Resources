@@ -327,6 +327,9 @@
 
 20. Code my UI
     https://codemyui.com/
+    
+21. React Cheatsheet
+    https://devhints.io/react
 
 #### DOCUMENTATION AND NOTES
 
