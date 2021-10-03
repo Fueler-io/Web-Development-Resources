@@ -59,6 +59,15 @@
 - https://webdevsimplified.com/
 - https://theodinproject.com/
 - https://fullstackopen.com/en/
+- https://www.educba.com/
+-  https://openclassrooms.com/
+-  https://www.programiz.com/
+-  https://javascript.info/
+-  https://www.geeksforgeeks.org/
+-  https://programminghub.io/
+-  https://www.tutorialspoint.com/
+-  https://www.javatpoint.com/
+-  https://www.guru99.com/
 
 ## Youtube Channels:
 
