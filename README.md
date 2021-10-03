@@ -19,6 +19,7 @@
 - [🈴 Resources for JavaScript](#resources-for-javascript)
 - [👻 Credit](#credit)
 - [😎 Helpful Chrome Extensions](#helpful-chrome-extensions)
+- [🛒 Free Domain Name](#free-domain)
 
 ## Free Hosting:
 
@@ -587,6 +588,10 @@
    https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
 6. What Font
    https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
+
+## Free Domain
+
+- https://www.freenom.com/en/index.html?lang=en
 
 ## Coding Challenges:
 
