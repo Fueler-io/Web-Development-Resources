@@ -84,6 +84,10 @@
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - [Catalin Pit](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg)
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+- [Devon Crawford](https://www.youtube.com/c/DevonCrawford)
+- [Aaron Jack](https://www.youtube.com/c/AaronJack)
+- [Tech with Tim](https://www.youtube.com/c/TechWithTim)
 
 ## Podcasts:
 
@@ -227,7 +231,10 @@
 - http://fontspace.com
 - http://1001fonts.com
 - http://fontsquirrel.com
-- https://www.nerdfonts.com/
+- https://nerdfonts.com/
+- https://fonts.adobe.com
+- https://urbanfonts.com
+- https://dafont.com
 
 ## Resources for CSS
 
