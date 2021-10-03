@@ -588,7 +588,13 @@
 47. JavaScript The Good Parts
     https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf
 
-48. New Resources are coming soon
+48. JavaScript Promises
+    https://www.udacity.com/course/javascript-promises--ud898
+    
+49. ES6 - JavaScript Improved
+    https://www.udacity.com/course/es6-javascript-improved--ud356
+    
+50. New Resources are coming soon
 
 ## Helpful Chrome Extensions
 
