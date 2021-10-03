@@ -19,6 +19,7 @@
 - [🈴 Resources for JavaScript](#resources-for-javascript)
 - [👻 Credit](#credit)
 - [😎 Helpful Chrome Extensions](#helpful-chrome-extensions)
+- [🛒 Free Domain Name](#free-domain)
 
 ## Free Hosting:
 
@@ -60,6 +61,15 @@
 - https://theodinproject.com/
 - https://fullstackopen.com/en/
 - https://tutorial.djangogirls.org/
+- https://www.educba.com/
+-  https://openclassrooms.com/
+-  https://www.programiz.com/
+-  https://javascript.info/
+-  https://www.geeksforgeeks.org/
+-  https://programminghub.io/
+-  https://www.tutorialspoint.com/
+-  https://www.javatpoint.com/
+-  https://www.guru99.com/
 
 ## Youtube Channels:
 
@@ -85,6 +95,19 @@
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - [Catalin Pit](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg)
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- [Sonny Sangha](https://www.youtube.com/user/ssangha32)
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+- [Codedamn](https://www.youtube.com/c/codedamn)
+- [Dapp University](https://www.youtube.com/c/DappUniversity)
+- [Adrian Twarog](https://www.youtube.com/c/AdrianTwarog)
+- [Hitesh Choudhary](https://www.youtube.com/c/HiteshChoudharydotcom)
+- [DesignCode](https://www.youtube.com/c/DesignCodeTeam)
+- [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+- [Devon Crawford](https://www.youtube.com/c/DevonCrawford)
+- [Aaron Jack](https://www.youtube.com/c/AaronJack)
+- [Tech with Tim](https://www.youtube.com/c/TechWithTim)
 
 ## Podcasts:
 
@@ -130,6 +153,8 @@
 - http://spoj.com
 - https://codeforces.com
 - https://open.kattis.com
+- https://www.hackerearth.com
+- https://practice.geeksforgeeks.org/
 
 ## Freelancing platforms:
 
@@ -228,7 +253,10 @@
 - http://fontspace.com
 - http://1001fonts.com
 - http://fontsquirrel.com
-- https://www.nerdfonts.com/
+- https://nerdfonts.com/
+- https://fonts.adobe.com
+- https://urbanfonts.com
+- https://dafont.com
 
 ## Resources for CSS
 
@@ -575,7 +603,13 @@
 47. JavaScript The Good Parts
     https://andersonguelphjs.github.io/OReilly_JavaScript_The_Good_Parts_May_2008.pdf
 
-48. New Resources are coming soon
+48. JavaScript Promises
+    https://www.udacity.com/course/javascript-promises--ud898
+    
+49. ES6 - JavaScript Improved
+    https://www.udacity.com/course/es6-javascript-improved--ud356
+    
+50. New Resources are coming soon
 
 ## Helpful Chrome Extensions
 
@@ -591,6 +625,10 @@
    https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
 6. What Font
    https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
+
+## Free Domain
+
+- https://www.freenom.com/en/index.html?lang=en
 
 ## Coding Challenges:
 
