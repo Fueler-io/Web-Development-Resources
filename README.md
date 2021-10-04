@@ -108,6 +108,7 @@
 - [Devon Crawford](https://www.youtube.com/c/DevonCrawford)
 - [Aaron Jack](https://www.youtube.com/c/AaronJack)
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
+- [The Codeholic](https://www.youtube.com/c/TheCodeholic/playlists)
 
 ## Podcasts:
 
