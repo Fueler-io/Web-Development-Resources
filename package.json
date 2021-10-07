@@ -1,13 +1,15 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next -p 4000",
+    "dev": "next -p 4001",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc"
   },
   "dependencies": {
+    "import": "^0.0.6",
     "next": "latest",
+    "next-themes": "^0.0.15",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
