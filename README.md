@@ -2,24 +2,24 @@
 
 ## Table of Contents
 
-- [🆓 Free Hosting](#free-hosting)
-- [👨🏻‍🏫 Learning Platforms](#learning-platforms)
-- [⛓️ YouTube Channels](#youtube-channels)
-- [🎙️ Podcasts](#podcasts)
 - [👩🏻‍💻 Code Editor](#code-editors)
 - [🛄 Coding Challenge Platforms](#coding-challenge-platforms)
-- [🛫 Freelancing platforms](#freelancing-platforms)
-- [🏢 Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
-- [📷 Free Quality Photos](#free-quality-photos)
-- [🎨 Free Illustration Design](#free-illustration-design)
-- [📚 Web-Dev Library](#web-dev-library)
-- [🔼 Icons](#icons)
+- [👻 Credit](#credit)
 - [🆎 Fonts](#fonts)
+- [🛒 Free Domain Name](#free-domain)
+- [🎨 Free Illustration Design](#free-illustration-design)
+- [🆓 Free Hosting](#free-hosting)
+- [🛫 Freelancing Platforms](#freelancing-platforms)
+- [📷 Free Quality Photos](#free-quality-photos)
+- [😎 Helpful Chrome Extensions](#helpful-chrome-extensions)
+- [🔼 Icons](#icons)
+- [👨🏻‍🏫 Learning Platforms](#learning-platforms)
+- [🎙️ Podcasts](#podcasts)
 - [🏜️ Resources for CSS](#resources-for-css)
 - [🈴 Resources for JavaScript](#resources-for-javascript)
-- [👻 Credit](#credit)
-- [😎 Helpful Chrome Extensions](#helpful-chrome-extensions)
-- [🛒 Free Domain Name](#free-domain)
+- [🏢 Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
+- [📚 Web-Dev Library](#web-dev-library)
+- [⛓️ YouTube Channels](#youtube-channels)
 
 ## Free Hosting:
 
