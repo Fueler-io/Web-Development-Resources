@@ -39,6 +39,7 @@
 - https://infinityfree.net/
 - https://www.freehosting.com/
 - https://www.deta.sh/
+- https://in.000webhost.com/
 
 ## Learning Platforms:
 
@@ -138,6 +139,7 @@
 - JetBrains WebStorm
 - Espresso
 - Notepad++
+- Bluefish
 
 ## Coding Challenge Platforms:
 
