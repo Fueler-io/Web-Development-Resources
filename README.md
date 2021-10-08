@@ -170,6 +170,10 @@
 - http://fiverr.com
 - http://hireable.com
 - http://6nomads.com
+- https://www.indeed.com
+- https://www.monster.com
+- https://talent.hubstaff.com
+- https://www.truelancer.com
 
 ## List of websites to find remote jobs:
 
