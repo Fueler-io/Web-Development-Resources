@@ -40,6 +40,7 @@
 - https://www.freehosting.com/
 - https://www.deta.sh/
 - https://in.000webhost.com/
+- https://pages.cloudflare.com/
 
 ## Learning Platforms:
 
@@ -188,6 +189,7 @@
 - http://wfh.io
 - https://hired.com/
 - https://bergamot.io/
+- https://arc.dev/
 
 ## Free Quality Photos:
 
