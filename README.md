@@ -40,6 +40,7 @@
 - http://hyperphp.com/
 - https://infinityfree.net/
 - https://www.freehosting.com/
+- https://in.000webhost.com/
 
 ## Learning Platforms:
 
@@ -94,6 +95,7 @@
 - Vim
 - Emacs
 - JetBrains WebStorm
+- Bluefish
 
 ## Coding Challenge Platforms:
 
