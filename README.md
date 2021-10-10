@@ -39,6 +39,8 @@
 - https://infinityfree.net/
 - https://www.freehosting.com/
 - https://www.deta.sh/
+- https://in.000webhost.com/
+- https://pages.cloudflare.com/
 
 ## Learning Platforms:
 
@@ -108,6 +110,7 @@
 - [Devon Crawford](https://www.youtube.com/c/DevonCrawford)
 - [Aaron Jack](https://www.youtube.com/c/AaronJack)
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
+- [The Codeholic](https://www.youtube.com/c/TheCodeholic/playlists)
 
 ## Podcasts:
 
@@ -131,6 +134,7 @@
 
 - Atom
 - Brackets
+- Bluefish
 - Codespaces
 - Emacs
 - Espresso
@@ -139,14 +143,6 @@
 - Sublime Text
 - Vim
 - Visual Studio Code [VS Code]
-
-
-
-
-
-
-
-
 
 ## Coding Challenge Platforms:
 
@@ -177,6 +173,10 @@
 - http://fiverr.com
 - http://hireable.com
 - http://6nomads.com
+- https://www.indeed.com
+- https://www.monster.com
+- https://talent.hubstaff.com
+- https://www.truelancer.com
 
 ## List of websites to find remote jobs:
 
@@ -190,6 +190,7 @@
 - http://wfh.io
 - https://hired.com/
 - https://bergamot.io/
+- https://arc.dev/
 
 ## Free Quality Photos:
 
@@ -305,6 +306,7 @@
 12. Cssbuttons.io
     https://cssbuttons.io/
 
+    
 #### CODE SNIPPETS
 
 11. Web tools
@@ -336,6 +338,9 @@
 
 20. Code my UI
     https://codemyui.com/
+    
+21. React Cheatsheet
+    https://devhints.io/react
 
 #### DOCUMENTATION AND NOTES
 
@@ -400,73 +405,76 @@
 
 40. Background image generator
     http://bg.siteorigin.com
+    
+41. Box-Shadow Generator
+    https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator
 
 #### DESIGN INSPIRATION
 
-41. CSS design awards
+42. CSS design awards
     https://cssdesignawards.com
 
-42. Awwwards
+43. Awwwards
     https://awwwards.com/websites/css3/
 
-43. CSS nectar
+44. CSS nectar
     https://cssnectar.com
 
-44. Design modo
+45. Design modo
     https://designmodo.com/css-website-designs/
 
-45. CSS winner
+46. CSS winner
     https://csswinner.com
 
 #### YOUTUBE TUTORIALS
 
-46. Free code camp
+47. Free code camp
     https://youtube.com/watch?v=1Rs2ND1ryYc
 
-47. Traversy media
+48. Traversy media
     https://youtube.com/watch?v=yfoY53QXEnI
 
-48. Coding artist
+49. Coding artist
     https://youtube.com/channel/UC15exV5s79D_aYGADudlwpQ
 
-49. Edureka
+50. Edureka
     https://youtube.com/watch?v=3_9znKVNe5g
 
-50. Red Stapler
+51. Red Stapler
     https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg
 
 #### GITHUB REPO
 
-51. Awesome CSS
+52. Awesome CSS
     https://github.com/awesome-css-group/awesome-css
 
-52. 30 seconds of CSS
+53. 30 seconds of CSS
     https://github.com/30-seconds/30-seconds-of-css
 
-53. CSS Protips
+54. CSS Protips
     https://github.com/AllThingsSmitty/css-protips
 
-54. Awesome flexbox
+55. Awesome flexbox
     https://github.com/afonsopacifer/awesome-flexbox
 
-55. Understanding flexbox
+56. Understanding flexbox
     https://github.com/ohansemmanuel/Understanding-Flexbox
 
 #### CHROME EXTENSIONS
 
-59. CSS Peeper
+57. CSS Peeper
     https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en
 
-60. Pesticide
+58. Pesticide
     https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en
 
-61. Stylebot
+59. Stylebot
     https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
 
-62. Perfect Pixel
+60. Perfect Pixel
     https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
 
-63. Colorpick eyedropper
+61. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
 
 ## Resources for JavaScript
