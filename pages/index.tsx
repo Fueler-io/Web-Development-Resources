@@ -15,7 +15,7 @@ const LandingPage = () => {
         <meta property="og:description" content="free resources for web development" key="ogdesc" />
         <title>Web Dev</title>
       </Head>
-      <main className="flex flex-col w-full dark:bg-black-brand-black-01 font-inter">
+      <main className="flex flex-col w-full dark:bg-black-brand-01 font-inter">
         <div className="container mx-auto">
           <Navbar/>
         </div>

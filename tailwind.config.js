@@ -13,11 +13,22 @@ module.exports = {
       },
       colors: {
         black: {
-          "brand-black-01":"#111111",
-          "brand-black-02": "#1C1C1C",
+          "brand-01":"#111111",
+          "brand-02": "#1C1C1C",
+          "brand-03": "#ffffff40",
+          "brand-04": "#1f1f1f",
+          "brand-05": "#202022",
+          
+
         },
         blue: {
-          "brand-blue-01": "#168FFF",
+          "brand-01": "#168FFF",
+        },
+        green: {
+          "brand-01": "#3fd080",
+        },
+        gray: {
+          "brand-01": "#b3b3b3",
         }
       }
     },

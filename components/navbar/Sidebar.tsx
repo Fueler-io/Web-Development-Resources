@@ -1,12 +1,17 @@
-import React from "react";
+import * as React from "react";
 import Link from "next/link";
+import { sidebarLinks } from "../../utils/nav-menu";
 
-const DashMobileNavbar = () => {
+const Sidebar = () => {
   return (
-    <div className="flex items-center justify-between py-4 text-blue-100 h-24 lg:hidden">
-      <a href="#" className="block -mr-8">
-        <span className="sr-only">Fueler Web</span>
-        <svg
+    <div
+      id="menu"
+      className="sticky top-0 z-10 flex-col hidden h-screen px-4 py-4 bg-white dark:bg-black-brand-01 shadow-inner w-60 xl:w-64 2xl:w-80 lg:px-6 xl:px-8 lg:py-6 lg:flex overflow-scroll border-r border-black-brand-02"
+    >
+      <div className="flex-1 py-4">
+        <a href="#" className="hidden md:block">
+          <span className="sr-only">Fueler Resources</span>
+          <svg
           width="84"
           height="17"
           viewBox="0 0 84 17"
@@ -18,23 +23,22 @@ const DashMobileNavbar = () => {
             fill="#3FD080"
           />
         </svg>
-      </a>
-      {/* <button id="menuToggle">
-        <svg
-          className="w-6 h-6"
-          fill="#3fd080"
-          viewBox="0 0 20 20"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            fill-rule="evenodd"
-            d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
-            clip-rule="evenodd"
-          ></path>
-        </svg>
-      </button> */}
+        </a>
+        {/* -mx-2  */}
+        <nav className="md:mt-8">
+          <ul className="pt-2 space-y-3 text-base">
+          {sidebarLinks.map(link =>  (
+          <li className="py-2 pr-4 dark:text-white text-opacity-10 rounded-t">
+            <Link href={link.path}>
+              <a className="text-sm uppercase font-medium text-center text-gray-brand-01 hover:text-green-brand-01">{link.name}</a>
+            </Link>
+          </li> 
+        ))} 
+          </ul>
+        </nav>
+      </div>
     </div>
   );
 };
 
-export default DashMobileNavbar;
+export default Sidebar;
