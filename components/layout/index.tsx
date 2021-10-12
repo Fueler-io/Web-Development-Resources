@@ -4,7 +4,7 @@ import Sidebar from "../navbar/Sidebar";
 import TopBar from "../navbar/Topbar";
 import DashTopBar from "../navbar/DashTopBar";
 const Layout = ({ children }: any) => (
-  <main className="flex flex-col min-h-screen text-base subpixel-antialiased font-normal bg-black-brand-01 lg:flex-row">
+  <main className="flex flex-col min-h-screen text-base subpixel-antialiased font-normal dark:bg-black-brand-01 bg-white lg:flex-row">
     <DashMobileNavbar />
     <Sidebar />
     <div className="flex flex-col flex-1 px-4 py-4 overflow-hidden lg:py-8 lg:px-6 xl:px-8">

@@ -4,11 +4,11 @@ import { Menu } from "../components/navbar/types";
 export const sidebarLinks: Menu[] = [
   {
     name: "All",
-    path: "/resources",
+    path: "/resources/all",
   },
   {
     name: "CSS",
-    path: "/resources/CSS",
+    path: "/resources/css",
   },
   {
     name: "Icons",
