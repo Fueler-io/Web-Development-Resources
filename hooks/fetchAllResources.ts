@@ -1,24 +1,10 @@
-import { supabase } from '../utils/supabase'
-
-type Resource = {
-  id: number;
-  inserted_at: string;
-  updated_at: string;
-  name: string;
-  link: string;
-  tag: string;
-}
+import { supabase } from '../utils/supabase';
+import { Resource } from './types';
 
 export const fetchAllResources = async () => {
-  const { data, error, count,} = await supabase
+  const { data, error} = await supabase
   .from<Resource>('resources')
-  .select(`
-    id, 
-    name, 
-    link, 
-    tag
-  `, { count: 'exact' })
-  
-  return {data, count, error};
+  .select(`*`, { count: 'exact' })
+  return {data, error};
 }
   

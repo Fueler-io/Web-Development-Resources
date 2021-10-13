@@ -1,4 +1,5 @@
 export type Menu = {
   name: string,
-  path: string
+  path: string,
+  param: string,
 }
