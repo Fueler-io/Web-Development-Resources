@@ -475,9 +475,6 @@
 
 61. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
-    
-62. Wappalyzer
-    https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en
 
 ## Resources for JavaScript
 
@@ -653,8 +650,8 @@
 10. Lorem Ipsum Generator
   https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb
    https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
-6. What Font
-   https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
+11. Wappalyzer
+    https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en
 
 ## Free Domain
 
