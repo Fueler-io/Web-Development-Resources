@@ -26,9 +26,9 @@ const Sidebar = () => {
         </a>
         {/* -mx-2  */}
         <nav className="md:mt-8">
-          <ul className="pt-2 space-y-3 text-base">
+          <ul className="pt-2 space-y-3 text-base side-links">
           {sidebarLinks.map(link =>  (
-          <li className="py-2 pr-4 dark:text-white text-opacity-10 rounded-t list-disc">
+          <li className="py-2 dark:text-white pl-4 text-opacity-10 rounded-t list-none hover:bg-black-brand-02">
             <Link href={link.path}>
               <a className="text-sm uppercase font-medium text-center text-gray-brand-01 hover:text-green-brand-01">{link.name}</a>
             </Link>

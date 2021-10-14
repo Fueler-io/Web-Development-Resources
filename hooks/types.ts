@@ -5,4 +5,6 @@ export type Resource = {
   name: string;
   link: string;
   tag: string;
+  image: string;
+  description: string
 }

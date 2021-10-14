@@ -10,6 +10,11 @@ html {
   /* color: #202022 */
 }
 
-/* .scrollbar::-webkit-scrollbar {
-  display: none;
-} */
+.side-links li::before {
+  content: "\2022";
+  color: #3fd080;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1.5em;
+  margin-left: -1em;
+}

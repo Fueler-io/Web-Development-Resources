@@ -11,7 +11,6 @@ export default function DashTopBar() {
 
   const switchTheme = () => {
     if (isMounted) {
-      console.log(theme);
       setTheme(theme === "light" ? "dark" : "light");
     }
   };
