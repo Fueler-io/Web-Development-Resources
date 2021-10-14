@@ -1,12 +1,13 @@
 import * as React from "react";
 import Link from "next/link";
 import { sidebarLinks } from "../../utils/nav-menu";
+import { ToggleProps } from "./types";
 
-const Sidebar = () => {
+const Sidebar = (props: ToggleProps) => {
   return (
     <div
       id="menu"
-      className="sticky top-0 z-10 flex-col hidden h-screen px-4 py-4 bg-white dark:bg-black-brand-01 shadow-inner w-60 xl:w-64 2xl:w-80 lg:px-6 xl:px-8 lg:py-6 lg:flex overflow-scroll border-r border-black-brand-02"
+      className={`sticky top-0 z-10 flex-col ${props.toggleState ? "" : "hidden"} h-screen px-4 py-4 bg-white dark:bg-black-brand-01 shadow-inner w-full lg:w-60 xl:w-64 2xl:w-80 lg:px-6 xl:px-8 lg:py-6 lg:flex overflow-scroll border-r border-black-brand-02`}
     >
       <div className="flex-1 py-4">
         <a href="#" className="hidden md:block">
@@ -24,7 +25,6 @@ const Sidebar = () => {
           />
         </svg>
         </a>
-        {/* -mx-2  */}
         <nav className="md:mt-8">
           <ul className="pt-2 space-y-3 text-base side-links">
           {sidebarLinks.map(link =>  (

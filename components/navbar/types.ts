@@ -3,3 +3,8 @@ export type Menu = {
   path: string,
   param: string,
 }
+
+export type ToggleProps  = {
+  toggleNavBar?(): any,
+  toggleState?: boolean
+}
