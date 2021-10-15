@@ -111,6 +111,8 @@
 - [Aaron Jack](https://www.youtube.com/c/AaronJack)
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
 - [The Codeholic](https://www.youtube.com/c/TheCodeholic/playlists)
+- [Eli the Computer Guy ](https://www.youtube.com/c/Elithecomputerguypage/featured)
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
 
 ## Podcasts:
