@@ -129,6 +129,7 @@
 - [HTML All The Things](https://podcast.htmlallthethings.com/)
 - [The Vanilla JS Podcast](https://vanillajspodcast.com/)
 - [Web Dev 101 - Front End, Back End, Full Stack](https://open.spotify.com/show/1kMcquypdIElTu4Nu98XPM)
+- [Ladybug Podcast](https://www.ladybug.dev/)
 
 ## Playgrounds:
 
