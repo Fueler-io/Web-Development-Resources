@@ -111,6 +111,7 @@
 - [Aaron Jack](https://www.youtube.com/c/AaronJack)
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
 - [The Codeholic](https://www.youtube.com/c/TheCodeholic/playlists)
+- [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
 
 ## Podcasts:
 
