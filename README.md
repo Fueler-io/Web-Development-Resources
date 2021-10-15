@@ -64,15 +64,14 @@
 - https://fullstackopen.com/en/
 - https://tutorial.djangogirls.org/
 - https://www.educba.com/
--  https://openclassrooms.com/
--  https://www.programiz.com/
--  https://javascript.info/
--  https://www.geeksforgeeks.org/
--  https://programminghub.io/
--  https://www.tutorialspoint.com/
--  https://www.javatpoint.com/
--  https://www.guru99.com/
--  https://fullstackopen.com/en/
+- https://openclassrooms.com/
+- https://www.programiz.com/
+- https://javascript.info/
+- https://www.geeksforgeeks.org/
+- https://programminghub.io/
+- https://www.tutorialspoint.com/
+- https://www.javatpoint.com/
+- https://www.guru99.com/
 
 ## Youtube Channels:
 
@@ -131,6 +130,16 @@
 - [The Vanilla JS Podcast](https://vanillajspodcast.com/)
 - [Web Dev 101 - Front End, Back End, Full Stack](https://open.spotify.com/show/1kMcquypdIElTu4Nu98XPM)
 - [Ladybug Podcast](https://www.ladybug.dev/)
+
+## Playgrounds:
+
+- [Codepen](https://codepen.io/your-work)
+- [CodeSandbox](https://codesandbox.io/)
+- [CodiLink](https://codi.link/)
+- [Glitch](https://glitch.com/)
+- [JSFiddle](https://jsfiddle.net/)
+- [PlayCode](https://playcode.io/)
+- [StackBlitz](https://stackblitz.com/)
 
 ## Code Editors:
 
@@ -303,11 +312,9 @@
 
 11. Colormind
     http://colormind.io/
-    
 12. Cssbuttons.io
     https://cssbuttons.io/
 
-    
 #### CODE SNIPPETS
 
 11. Web tools
@@ -339,7 +346,6 @@
 
 20. Code my UI
     https://codemyui.com/
-    
 21. React Cheatsheet
     https://devhints.io/react
 
@@ -406,7 +412,6 @@
 
 40. Background image generator
     http://bg.siteorigin.com
-    
 41. Box-Shadow Generator
     https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator
 
@@ -623,10 +628,8 @@
 
 48. JavaScript Promises
     https://www.udacity.com/course/javascript-promises--ud898
-    
 49. ES6 - JavaScript Improved
     https://www.udacity.com/course/es6-javascript-improved--ud356
-    
 50. New Resources are coming soon
 
 ## Helpful Chrome Extensions
@@ -640,20 +643,20 @@
 4. Css Peeper
    https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?utm_source=chrome-ntp-icon
 5. ColorPick Eyedropper
- https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
-6. What Font
-  https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
-7. Fonts Ninja
-  https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
-8. Window Resizer
-  https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/
-9. BrowserStack
-  https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb
-10. Lorem Ipsum Generator
-  https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb
    https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
 6. What Font
    https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
+7. Fonts Ninja
+   https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
+8. Window Resizer
+   https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/
+9. BrowserStack
+   https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb
+10. Lorem Ipsum Generator
+    https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb
+    https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
+11. What Font
+    https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
 
 ## Free Domain
 
