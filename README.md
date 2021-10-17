@@ -41,6 +41,7 @@
 - https://www.deta.sh/
 - https://in.000webhost.com/
 - https://pages.cloudflare.com/
+- https://www.w3schools.com/spaces/
 
 ## Learning Platforms:
 
@@ -72,6 +73,8 @@
 - https://www.tutorialspoint.com/
 - https://www.javatpoint.com/
 - https://www.guru99.com/
+- https://fireship.io/
+- https://pluralsight.com/
 
 ## Youtube Channels:
 
