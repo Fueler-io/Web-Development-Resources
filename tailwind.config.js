@@ -12,15 +12,6 @@ module.exports = {
         'inter': ['Inter', 'sans-serif']
       },
       colors: {
-        // css: "#2196f3",
-        // icons: "#2196f3",
-        // fonts: "#2196f3",
-        // hosting: "#2196f3",
-        // icons: "#2196f3",
-        // learning_pltforms: "#168FFF",
-        // freelance_platforms: "#2196f3",
-        // quality_pho
-        
         black: {
           "brand-01":"#111111",
           "brand-02": "#1C1C1C",

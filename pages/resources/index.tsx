@@ -1,5 +1,4 @@
 import * as React from "react";
-import Link from "next/link";
 import Layout from "../../components/layout";
 import { QueryClient, useQuery } from "react-query";
 import { dehydrate } from "react-query/hydration";
@@ -8,7 +7,7 @@ import ResourceCard from "../../components/cards/ResourceCard";
 
 
 export default function Dashboard() {
-  const {data, isLoading, error} = useQuery('all-resources', fetchAllResources);
+  const {data} = useQuery('all-resources', fetchAllResources);
   return (
     <div>
       <ul

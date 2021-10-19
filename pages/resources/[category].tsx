@@ -1,5 +1,4 @@
 import * as React from "react";
-import Link from "next/link";
 import { useRouter } from "next/router";
 import { GetStaticProps } from "next";
 import Layout from "../../components/layout";
@@ -11,7 +10,7 @@ import ResourceCard from "../../components/cards/ResourceCard";
 
 export default function DashboardWithFilter() {
   const router = useRouter();
-  const { data, isLoading, error } = useQuery(
+  const { data } = useQuery(
     ["resources", router.query.category],
     fetchResources
   );
