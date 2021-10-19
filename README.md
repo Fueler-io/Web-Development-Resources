@@ -43,6 +43,7 @@
 - [Surge](http://surge.sh)
 - [Vercel](http://vercel.com)
 - [Webhost](https://in.000webhost.com/)
+- [W3 Spaces](https://www.w3schools.com/spaces/)
 
 
 ## Learning Platforms:
@@ -75,6 +76,8 @@
 - https://www.tutorialspoint.com/
 - https://www.javatpoint.com/
 - https://www.guru99.com/
+- https://www.fireship.io/
+- https://java5ript.com
 
 ## Youtube Channels:
 
