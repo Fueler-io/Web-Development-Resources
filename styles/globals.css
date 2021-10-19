@@ -4,10 +4,7 @@
 @tailwind utilities;
 
 html {
-  /* scroll-behavior: smooth;
-  scrollbar-width: none; */
   font-family: Inter, 'sans-serif';
-  /* color: #202022 */
 }
 
 .side-links li::before {
