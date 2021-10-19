@@ -4,8 +4,8 @@ import Sidebar from "../navbar/Sidebar";
 import Image from "next/image";
 import DashTopBar from "../navbar/DashTopBar";
 import codeIcon from "../../public/images/code-icon.png";
-import cssIcon from "../../public/images/css3.png";
-import magnifier from "../../public/images/magnifier.png";
+// import cssIcon from "../../public/images/css3.png";
+// import magnifier from "../../public/images/magnifier.png";
 import laptop from "../../public/images/laptop.png";
 const Layout = ({ children }: any) => {
   const [toggleNav, setToogleNavBar] = React.useState(false);
@@ -30,7 +30,7 @@ const Layout = ({ children }: any) => {
             <Image src={laptop} alt="code-icon" />
           </div> */}
           <div className="absolute w-20 h-20 top-5 left-5 animate-pulse">
-            <Image src={cssIcon} alt="css-icon" />
+            <Image src={laptop} alt="css-icon" />
           </div>
           <h1 className="font-bold text-5xl text-white text-center">
             Free Web Resources in <span className="text-green-brand-01 text-7xl">1</span>{" "}
