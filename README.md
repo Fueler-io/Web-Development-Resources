@@ -117,6 +117,7 @@
 - [Eli the Computer Guy ](https://www.youtube.com/c/Elithecomputerguypage/featured)
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
+- [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ## Podcasts:
 
@@ -136,6 +137,7 @@
 - [The Vanilla JS Podcast](https://vanillajspodcast.com/)
 - [Web Dev 101 - Front End, Back End, Full Stack](https://open.spotify.com/show/1kMcquypdIElTu4Nu98XPM)
 - [Ladybug Podcast](https://www.ladybug.dev/)
+- [Compressedfm](https://www.compressed.fm/)
 
 ## Playgrounds:
 
@@ -212,6 +214,7 @@
 - https://pangian.com/job-travel-remote/
 - https://remotive.io/
 - https://www.skipthedrive.com/
+- https://yellowjobs.org
 
 ## Free Quality Photos:
 
@@ -664,10 +667,10 @@
 9. BrowserStack
    https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb
 10. Lorem Ipsum Generator
-   https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb
+    https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb
 11. Wappalyzer
     https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en
-11. What Font
+12. What Font
     https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
 
 ## Free Domain
