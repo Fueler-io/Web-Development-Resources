@@ -1,9 +1,7 @@
 import React from "react";
 import Link from "next/link";
-import { sidebarLinks } from "../../utils/nav-menu";
 import { ToggleProps } from "./types";
-const DashMobileNavbar = (props: ToggleProps) => {
-  
+const DashMobileNavbar = (props: ToggleProps) => {  
   return (
     <div className="flex flex-col lg:hidden relative px-4">
       <div className="flex items-center justify-between py-4 text-blue-100 h-24">
@@ -30,31 +28,13 @@ const DashMobileNavbar = (props: ToggleProps) => {
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              fill-rule="evenodd"
+              fillRule="evenodd"
               d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
-              clip-rule="evenodd"
+              clipRule="evenodd"
             ></path>
           </svg>
         </button>
       </div>
-
-      {/* {toggleNav && (
-        <div className="absolute bg-black-brand-01">
-          <nav className="md:mt-2">
-            <ul className="pt-2 space-y-3 text-base side-links">
-              {sidebarLinks.map((link) => (
-                <li className="py-2 dark:text-white pl-4 text-opacity-10 rounded-t list-none hover:bg-black-brand-02">
-                  <Link href={link.path}>
-                    <a className="text-sm uppercase font-medium text-center text-gray-brand-01 hover:text-green-brand-01">
-                      {link.name}
-                    </a>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </nav>
-        </div>
-      )} */}
     </div>
   );
 };

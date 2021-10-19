@@ -1,10 +1,9 @@
 import { Menu } from "../components/navbar/types";
 
-/** Dummy user data. */
 export const sidebarLinks: Menu[] = [
   {
     name: "All",
-    path: "/resources/all",
+    path: "/resources",
     param: "all"
   },
   {
@@ -58,14 +57,19 @@ export const sidebarLinks: Menu[] = [
     param: "remote-jobs"
   },
   {
-    name: "Youtube Channels",
-    path: "/resources/youtube-channels",
-    param: "youtube-channels"
-  },
-  {
     name: "Code Editors",
     path: "/resources/code-editors",
     param: "code-editors"
+  },
+  {
+    name: "Docs & Notes",
+    path: "/resources/docs",
+    param: "docs-notes"
+  },
+  {
+    name: "Youtube Channels",
+    path: "/resources/youtube-channels",
+    param: "youtube-channels"
   },
   {
     name: "Coding Challenge",

@@ -1,9 +1,12 @@
 import * as React from "react";
 import Link from "next/link";
 import { sidebarLinks } from "../../utils/nav-menu";
+import { useRouter } from "next/router";
 import { ToggleProps } from "./types";
 
+
 const Sidebar = (props: ToggleProps) => {
+  const router  = useRouter();
   return (
     <div
       id="menu"
@@ -28,9 +31,9 @@ const Sidebar = (props: ToggleProps) => {
         <nav className="md:mt-8">
           <ul className="pt-2 space-y-3 text-base side-links">
           {sidebarLinks.map(link =>  (
-          <li className="py-2 dark:text-white pl-4 text-opacity-10 rounded-t list-none hover:bg-black-brand-02">
+          <li key={link.path} className={`py-2 text-white pl-4 text-opacity-10 rounded-t list-none `}>
             <Link href={link.path}>
-              <a className="text-sm uppercase font-medium text-center text-gray-brand-01 hover:text-green-brand-01">{link.name}</a>
+              <a onClick={props.toggleNavBar} className={`text-sm uppercase font-medium text-center text-gray-brand-01 hover:text-green-brand-01 ${router.asPath === link.path ? `text-green-brand-01` : ""}`}>{link.name}</a>
             </Link>
           </li> 
         ))} 

@@ -25,7 +25,7 @@ export default function DashboardWithFilter() {
         }
       >
         {data && data.data && data.data.map(item => (
-          <ResourceCard item={item} />
+          <ResourceCard key={item.name} item={item} />
         ))}
       </ul>
     </div>

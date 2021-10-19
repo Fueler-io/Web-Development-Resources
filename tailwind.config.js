@@ -12,17 +12,25 @@ module.exports = {
         'inter': ['Inter', 'sans-serif']
       },
       colors: {
+        // css: "#2196f3",
+        // icons: "#2196f3",
+        // fonts: "#2196f3",
+        // hosting: "#2196f3",
+        // icons: "#2196f3",
+        // learning_pltforms: "#168FFF",
+        // freelance_platforms: "#2196f3",
+        // quality_pho
+        
         black: {
           "brand-01":"#111111",
           "brand-02": "#1C1C1C",
           "brand-03": "#ffffff40",
           "brand-04": "#1f1f1f",
           "brand-05": "#202022",
-          
-
         },
         blue: {
           "brand-01": "#168FFF",
+          "brand-tag": "#2196f3",
         },
         green: {
           "brand-01": "#3fd080",

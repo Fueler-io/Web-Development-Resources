@@ -4,7 +4,9 @@
     "dev": "next -p 4001",
     "build": "next build",
     "start": "next start",
-    "type-check": "tsc"
+    "type-check": "tsc",
+    "lint": "next lint",
+    "style": "tailwindcss build styles/globals.css -o styles/index.css"
   },
   "dependencies": {
     "@heroicons/react": "^1.0.4",
