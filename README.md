@@ -141,12 +141,20 @@
 
 ## Playgrounds:
 
+- [Codeanywhere](https://codeanywhere.com/)
 - [Codepen](https://codepen.io/your-work)
 - [CodeSandbox](https://codesandbox.io/)
 - [CodiLink](https://codi.link/)
+- [DartPad](https://dartpad.dev/)
 - [Glitch](https://glitch.com/)
+- [Go Playground](https://play.golang.org/)
+- [Google Colab](https://colab.research.google.com/)
+- [JS Bin](https://jsbin.com/)
 - [JSFiddle](https://jsfiddle.net/)
+- [Kotlin Playground](https://play.kotlinlang.org/)
 - [PlayCode](https://playcode.io/)
+- [Replit](https://repl.it/)
+- [Rust Playground](https://play.rust-lang.org/)
 - [StackBlitz](https://stackblitz.com/)
 
 ## Code Editors:
