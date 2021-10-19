@@ -21,26 +21,29 @@
 - [📚 Web-Dev Library](#web-dev-library)
 - [⛓️ YouTube Channels](#youtube-channels)
 
+
+
 ## Free Hosting:
 
-- http://netlify.com
-- http://firebase.google.com
-- http://aws.amazon.com
-- http://heroku.com
-- http://pages.github.com
-- http://vercel.com
-- http://surge.sh
-- http://render.com
-- https://cloud.google.com/
-- http://docs.gitlab.com/ee/user/project/pages
-- https://byet.host/
-- https://www.hostinger.in/free-web-hosting
-- http://hyperphp.com/
-- https://infinityfree.net/
-- https://www.freehosting.com/
-- https://www.deta.sh/
-- https://in.000webhost.com/
-- https://pages.cloudflare.com/
+- [Amazon Web Services](http://aws.amazon.com)
+- [Byet Host](https://byet.host/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+- [Deta](https://www.deta.sh/)
+- [Firebase](http://firebase.google.com)
+- [Freehosting](https://www.freehosting.com/)
+- [Github Pages](http://pages.github.com)
+- [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
+- [Google Cloud](https://cloud.google.com/)
+- [Heroku](http://heroku.com)
+- [Hostinger](https://www.hostinger.in/free-web-hosting)
+- [HyperPHP](http://hyperphp.com/)
+- [InfinityFree](https://infinityfree.net/)
+- [Netlify](http://netlify.com)
+- [Render](http://render.com)
+- [Surge](http://surge.sh)
+- [Vercel](http://vercel.com)
+- [Webhost](https://in.000webhost.com/)
+
 
 ## Learning Platforms:
 
@@ -146,16 +149,17 @@
 
 ## Code Editors:
 
-- Visual Studio Code [VS Code]
-- Sublime Text
 - Atom
 - Brackets
-- Vim
-- Emacs
-- JetBrains WebStorm
-- Espresso
-- Notepad++
 - Bluefish
+- Codespaces
+- Emacs
+- Espresso
+- JetBrains WebStorm
+- Notepad++
+- Sublime Text
+- Vim
+- Visual Studio Code [VS Code]
 
 ## Coding Challenge Platforms:
 
