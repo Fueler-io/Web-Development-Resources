@@ -21,26 +21,29 @@
 - [📚 Web-Dev Library](#web-dev-library)
 - [⛓️ YouTube Channels](#youtube-channels)
 
+
+
 ## Free Hosting:
 
-- http://netlify.com
-- http://firebase.google.com
-- http://aws.amazon.com
-- http://heroku.com
-- http://pages.github.com
-- http://vercel.com
-- http://surge.sh
-- http://render.com
-- https://cloud.google.com/
-- http://docs.gitlab.com/ee/user/project/pages
-- https://byet.host/
-- https://www.hostinger.in/free-web-hosting
-- http://hyperphp.com/
-- https://infinityfree.net/
-- https://www.freehosting.com/
-- https://www.deta.sh/
-- https://in.000webhost.com/
-- https://pages.cloudflare.com/
+- [Amazon Web Services](http://aws.amazon.com)
+- [Byet Host](https://byet.host/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+- [Deta](https://www.deta.sh/)
+- [Firebase](http://firebase.google.com)
+- [Freehosting](https://www.freehosting.com/)
+- [Github Pages](http://pages.github.com)
+- [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
+- [Google Cloud](https://cloud.google.com/)
+- [Heroku](http://heroku.com)
+- [Hostinger](https://www.hostinger.in/free-web-hosting)
+- [HyperPHP](http://hyperphp.com/)
+- [InfinityFree](https://infinityfree.net/)
+- [Netlify](http://netlify.com)
+- [Render](http://render.com)
+- [Surge](http://surge.sh)
+- [Vercel](http://vercel.com)
+- [Webhost](https://in.000webhost.com/)
+
 
 ## Learning Platforms:
 
@@ -64,15 +67,15 @@
 - https://fullstackopen.com/en/
 - https://tutorial.djangogirls.org/
 - https://www.educba.com/
--  https://openclassrooms.com/
--  https://www.programiz.com/
--  https://javascript.info/
--  https://www.geeksforgeeks.org/
--  https://programminghub.io/
--  https://www.tutorialspoint.com/
--  https://www.javatpoint.com/
--  https://www.guru99.com/
--  https://www.tutorialsteacher.com/
+- https://openclassrooms.com/
+- https://www.programiz.com/
+- https://javascript.info/
+- https://www.geeksforgeeks.org/
+- https://programminghub.io/
+- https://www.tutorialspoint.com/
+- https://www.javatpoint.com/
+- https://www.guru99.com/
+- https://www.tutorialsteacher.com/
 
 ## Youtube Channels:
 
@@ -112,6 +115,10 @@
 - [Aaron Jack](https://www.youtube.com/c/AaronJack)
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
 - [The Codeholic](https://www.youtube.com/c/TheCodeholic/playlists)
+- [Eli the Computer Guy ](https://www.youtube.com/c/Elithecomputerguypage/featured)
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
+- [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
+- [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ## Podcasts:
 
@@ -130,19 +137,40 @@
 - [HTML All The Things](https://podcast.htmlallthethings.com/)
 - [The Vanilla JS Podcast](https://vanillajspodcast.com/)
 - [Web Dev 101 - Front End, Back End, Full Stack](https://open.spotify.com/show/1kMcquypdIElTu4Nu98XPM)
+- [Ladybug Podcast](https://www.ladybug.dev/)
+- [Compressedfm](https://www.compressed.fm/)
+
+## Playgrounds:
+
+- [Codeanywhere](https://codeanywhere.com/)
+- [Codepen](https://codepen.io/your-work)
+- [CodeSandbox](https://codesandbox.io/)
+- [CodiLink](https://codi.link/)
+- [DartPad](https://dartpad.dev/)
+- [Glitch](https://glitch.com/)
+- [Go Playground](https://play.golang.org/)
+- [Google Colab](https://colab.research.google.com/)
+- [JS Bin](https://jsbin.com/)
+- [JSFiddle](https://jsfiddle.net/)
+- [Kotlin Playground](https://play.kotlinlang.org/)
+- [PlayCode](https://playcode.io/)
+- [Replit](https://repl.it/)
+- [Rust Playground](https://play.rust-lang.org/)
+- [StackBlitz](https://stackblitz.com/)
 
 ## Code Editors:
 
-- Visual Studio Code [VS Code]
-- Sublime Text
 - Atom
 - Brackets
-- Vim
-- Emacs
-- JetBrains WebStorm
-- Espresso
-- Notepad++
 - Bluefish
+- Codespaces
+- Emacs
+- Espresso
+- JetBrains WebStorm
+- Notepad++
+- Sublime Text
+- Vim
+- Visual Studio Code [VS Code]
 
 ## Coding Challenge Platforms:
 
@@ -191,6 +219,11 @@
 - https://hired.com/
 - https://bergamot.io/
 - https://arc.dev/
+- https://www.virtualvocations.com/
+- https://pangian.com/job-travel-remote/
+- https://remotive.io/
+- https://www.skipthedrive.com/
+- https://yellowjobs.org
 
 ## Free Quality Photos:
 
@@ -302,11 +335,9 @@
 
 11. Colormind
     http://colormind.io/
-    
 12. Cssbuttons.io
     https://cssbuttons.io/
 
-    
 #### CODE SNIPPETS
 
 11. Web tools
@@ -338,7 +369,6 @@
 
 20. Code my UI
     https://codemyui.com/
-    
 21. React Cheatsheet
     https://devhints.io/react
 
@@ -405,7 +435,6 @@
 
 40. Background image generator
     http://bg.siteorigin.com
-    
 41. Box-Shadow Generator
     https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator
 
@@ -642,7 +671,7 @@
 4. Css Peeper
    https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?utm_source=chrome-ntp-icon
 5. ColorPick Eyedropper
- https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
+   https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
 6. What Font
     https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
 7. Fonts Ninja
@@ -654,8 +683,6 @@
 10. Lorem Ipsum Generator
     https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb
       https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
-6. What Font
-   https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
 
 ## Free Domain
 
