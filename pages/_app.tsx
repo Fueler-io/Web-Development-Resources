@@ -5,8 +5,8 @@ import Head from 'next/head';
 import { QueryClientProvider, QueryClient } from "react-query";
 import { Hydrate } from "react-query/hydration";
 import { ThemeProvider } from "next-themes";
-// import '../styles/globals.css';
-import "../styles/index.css";
+import '../styles/globals.css';
+// import "../styles/index.css";
 
 type NextPageWithLayout = NextPage & {
   getLayout?: (page: React.ReactElement) => React.ReactNode

@@ -11,7 +11,7 @@ const Sidebar = (props: ToggleProps) => {
       id="menu"
       className={`sticky top-0 z-10 flex-col ${
         props.toggleState ? "" : "hidden"
-      } h-screen px-4 py-4 bg-white dark:bg-black-brand-01 shadow-inner w-full lg:w-60 xl:w-64 2xl:w-80 lg:px-6 xl:px-8 lg:py-6 lg:flex overflow-scroll border-r border-black-brand-02`}
+      } h-screen px-4 py-4 bg-black-brand-08 shadow-inner w-full lg:w-60 xl:w-64 2xl:w-80 lg:px-6 xl:px-8 lg:py-6 lg:flex overflow-scroll border-r border-black-brand-06`}
     >
       <div className="flex-1 py-4">
         <a href="#" className="hidden md:block">

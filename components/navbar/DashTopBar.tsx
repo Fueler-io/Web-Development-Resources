@@ -26,6 +26,7 @@ export default function DashTopBar() {
             placeholder="Enter your search term..."
           />
         </div>
+        <button className="inline-flex bg-black-brand-02 bg-opacity-10 border border-black-brand-02 text-green-brand-01 py-2 px-6 focus:outline-none rounded text-lg">Suggest a resource</button>
       </div>
     </div>
   );
