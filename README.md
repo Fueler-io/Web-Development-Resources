@@ -76,6 +76,7 @@
 - https://www.tutorialspoint.com/
 - https://www.javatpoint.com/
 - https://www.guru99.com/
+- https://fullstackui.com/
 - https://www.tutorialsteacher.com/
 - https://www.fireship.io/
 - https://java5ript.com
@@ -296,6 +297,7 @@
 - https://thenounproject.com/
 - https://www.iconfinder.com/
 - https://remixicon.com/
+- https://heroicons.com/
 
 ## Fonts:
 
@@ -342,175 +344,199 @@
 
 11. Colormind
     http://colormind.io/
+
 12. Cssbuttons.io
     https://cssbuttons.io/
 
 #### CODE SNIPPETS
 
-11. Web tools
+13. Web tools
     https://webcode.tools/css-generator
 
-12. Little snippets
+14. Little snippets
     https://littlesnippets.net
 
-13. Enjoy CSS
+15. Enjoy CSS
     https://enjoycss.com
 
-14. CSS Tricks
+16. CSS Tricks
     https://css-tricks.com/snippets/css/
 
-15. CSS Deck
+17. CSS Deck
     https://cssdeck.com
 
-16. W3 How to
+18. W3 How to
     https://w3schools.com/howto/
 
-17. Snipplr
+19. Snipplr
     https://snipplr.com
 
-18. Stack overflow
+20. Stack overflow
     https://stackoverflow.com/questions/tagged/css
 
-19. Codepen
+21. Codepen
     https://codepen.io/collection/DYpwPE
 
-20. Code my UI
+22. Code my UI
     https://codemyui.com/
-21. React Cheatsheet
+
+23. React Cheatsheet
     https://devhints.io/react
 
 #### DOCUMENTATION AND NOTES
 
-21. W3 Schools
+24. W3 Schools
     https://w3schools.com/css/
 
-22. MDN
+25. MDN
     https://developer.mozilla.org/en-US/docs/Web/CSS
 
-23. DevDocs
+26. DevDocs
     https://devdocs.io/css/
 
-24. Geeks for geeks
+27. Geeks for geeks
     https://geeksforgeeks.org/css-tutorials/
 
-25. Tutorials point
+28. Tutorials point
     https://tutorialspoint.com/css/index.html
+
+29. CSS Reference
+    https://cssreference.io/
 
 #### CSS GENERATORS
 
-26. CSS button creator
+30. CSS button creator
     https://cssbuttoncreator.com
 
-27. Blob Maker
+31. Blob Maker
     https://blobmaker.app
 
-28. Waves maker
+32. Waves maker
     https://getwaves.io
 
-29. Enjoy CSS
+33. Enjoy CSS
     https://enjoycss.com
 
-30. Neumorphic UI
+34. Neumorphic UI
     https://neumorphism.io/#e0e0e0
 
-31. Glassmorphism Generator
+35. Glassmorphism Generator
     https://glassmorphism.com
 
-32. Keyframes
+36. Keyframes
     https://keyframes.app
 
-33. Animista
+37. Animista
     https://animista.net
 
-34. Fancy border
+38. Fancy border
     https://9elements.github.io/fancy-border-radius/
 
-35. CSS Generators tool
+39. CSS Generators tool
     https://cssgenerator.org/
 
-36. CSS 3 maker
+40. CSS 3 maker
     https://css3maker.com
 
-37. CSS clip path maker
+41. CSS clip path maker
     https://bennettfeely.com/clippy/
 
-38. CSS shapes generator
+42. CSS shapes generator
     https://coveloping.com/tools/css-shapes-generator
 
-39. Pattern generator
+43. Pattern generator
     http://patternify.com
 
-40. Background image generator
+44. Background image generator
     http://bg.siteorigin.com
-41. Box-Shadow Generator
+
+45. Box-Shadow Generator
     https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator
+
+46. Color Contrast Checker
+    https://colourcontrast.cc/
+
+47. Color Palette AI Generator
+    http://khroma.co/
+
+48. Shape Divider Generator
+    https://www.shapedivider.app/
 
 #### DESIGN INSPIRATION
 
-42. CSS design awards
+49. CSS design awards
     https://cssdesignawards.com
 
-43. Awwwards
+50. Awwwards
     https://awwwards.com/websites/css3/
 
-44. CSS nectar
+51. CSS nectar
     https://cssnectar.com
 
-45. Design modo
+52. Design modo
     https://designmodo.com/css-website-designs/
 
-46. CSS winner
+53. CSS winner
     https://csswinner.com
+
+54. Dark mode Inspiration
+    https://www.darkmodedesign.com/
+
+55. Lookup Design
+    https://lookup.design/
+
+56. Design Checklist
+    https://www.checklist.design/
 
 #### YOUTUBE TUTORIALS
 
-47. Free code camp
+57. Free code camp
     https://youtube.com/watch?v=1Rs2ND1ryYc
 
-48. Traversy media
+58. Traversy media
     https://youtube.com/watch?v=yfoY53QXEnI
 
-49. Coding artist
+59. Coding artist
     https://youtube.com/channel/UC15exV5s79D_aYGADudlwpQ
 
-50. Edureka
+60. Edureka
     https://youtube.com/watch?v=3_9znKVNe5g
 
-51. Red Stapler
+61. Red Stapler
     https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg
 
 #### GITHUB REPO
 
-52. Awesome CSS
+62. Awesome CSS
     https://github.com/awesome-css-group/awesome-css
 
-53. 30 seconds of CSS
+63. 30 seconds of CSS
     https://github.com/30-seconds/30-seconds-of-css
 
-54. CSS Protips
+64. CSS Protips
     https://github.com/AllThingsSmitty/css-protips
 
-55. Awesome flexbox
+65. Awesome flexbox
     https://github.com/afonsopacifer/awesome-flexbox
 
-56. Understanding flexbox
+66. Understanding flexbox
     https://github.com/ohansemmanuel/Understanding-Flexbox
 
 #### CHROME EXTENSIONS
 
-57. CSS Peeper
+67. CSS Peeper
     https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en
 
-58. Pesticide
+68. Pesticide
     https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en
 
-59. Stylebot
+69. Stylebot
     https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
 
-60. Perfect Pixel
+70. Perfect Pixel
     https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
 
-61. Colorpick eyedropper
+71. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
 
 ## Resources for JavaScript
@@ -661,11 +687,18 @@
     
 49. ES6 - JavaScript Improved
     https://www.udacity.com/course/es6-javascript-improved--ud356
+
+50. Clean Code for Typescript
+    https://labs42io.github.io/clean-code-typescript/
+
+51. Clean Code for Javascript
+    https://github.com/ryanmcdermott/clean-code-javascript
     
 50. Mastering JS
     https://masteringjs.io/
     
 51. New Resources are coming soon
+
 
 ## Helpful Chrome Extensions
 
@@ -689,7 +722,10 @@
     https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb
 10. Lorem Ipsum Generator
     https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb
-      https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
+11. Wappalyzer
+    https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en
+12. What Font
+    https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
 
 ## Free Domain
 
