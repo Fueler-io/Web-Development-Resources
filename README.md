@@ -76,6 +76,7 @@
 - https://www.tutorialspoint.com/
 - https://www.javatpoint.com/
 - https://www.guru99.com/
+- https://www.tutorialsteacher.com/
 - https://www.fireship.io/
 - https://java5ript.com
 
@@ -657,9 +658,14 @@
 
 48. JavaScript Promises
     https://www.udacity.com/course/javascript-promises--ud898
+    
 49. ES6 - JavaScript Improved
     https://www.udacity.com/course/es6-javascript-improved--ud356
-50. New Resources are coming soon
+    
+50. Mastering JS
+    https://masteringjs.io/
+    
+51. New Resources are coming soon
 
 ## Helpful Chrome Extensions
 
@@ -674,19 +680,16 @@
 5. ColorPick Eyedropper
    https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
 6. What Font
-   https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
+    https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
 7. Fonts Ninja
-   https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
+    https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh
 8. Window Resizer
-   https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/
+    https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/
 9. BrowserStack
-   https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb
+    https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb
 10. Lorem Ipsum Generator
     https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb
-11. Wappalyzer
-    https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en
-12. What Font
-    https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?utm_source=chrome-ntp-icon
+      https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?utm_source=chrome-ntp-icon
 
 ## Free Domain
 
