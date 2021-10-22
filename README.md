@@ -43,6 +43,7 @@
 - [Surge](http://surge.sh)
 - [Vercel](http://vercel.com)
 - [Webhost](https://in.000webhost.com/)
+- [W3 Spaces](https://www.w3schools.com/spaces/)
 
 
 ## Learning Platforms:
@@ -76,6 +77,8 @@
 - https://www.javatpoint.com/
 - https://www.guru99.com/
 - https://www.tutorialsteacher.com/
+- https://www.fireship.io/
+- https://java5ript.com
 
 ## Youtube Channels:
 
@@ -118,6 +121,7 @@
 - [Eli the Computer Guy ](https://www.youtube.com/c/Elithecomputerguypage/featured)
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
+- [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
 - [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ## Podcasts:
@@ -157,9 +161,11 @@
 - [Replit](https://repl.it/)
 - [Rust Playground](https://play.rust-lang.org/)
 - [StackBlitz](https://stackblitz.com/)
+- [repit](https://replit.com/)
 
 ## Code Editors:
 
+- Apache Netbeans
 - Atom
 - Brackets
 - Bluefish
@@ -223,6 +229,7 @@
 - https://pangian.com/job-travel-remote/
 - https://remotive.io/
 - https://www.skipthedrive.com/
+- https://angel.co/jobs
 - https://yellowjobs.org
 
 ## Free Quality Photos:
