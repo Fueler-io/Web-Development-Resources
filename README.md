@@ -164,6 +164,7 @@
 
 ## Code Editors:
 
+- Apache Netbeans
 - Atom
 - Brackets
 - Bluefish
