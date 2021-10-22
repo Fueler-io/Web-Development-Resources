@@ -21,26 +21,30 @@
 - [📚 Web-Dev Library](#web-dev-library)
 - [⛓️ YouTube Channels](#youtube-channels)
 
+
+
 ## Free Hosting:
 
-- http://netlify.com
-- http://firebase.google.com
-- http://aws.amazon.com
-- http://heroku.com
-- http://pages.github.com
-- http://vercel.com
-- http://surge.sh
-- http://render.com
-- https://cloud.google.com/
-- http://docs.gitlab.com/ee/user/project/pages
-- https://byet.host/
-- https://www.hostinger.in/free-web-hosting
-- http://hyperphp.com/
-- https://infinityfree.net/
-- https://www.freehosting.com/
-- https://www.deta.sh/
-- https://in.000webhost.com/
-- https://pages.cloudflare.com/
+- [Amazon Web Services](http://aws.amazon.com)
+- [Byet Host](https://byet.host/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+- [Deta](https://www.deta.sh/)
+- [Firebase](http://firebase.google.com)
+- [Freehosting](https://www.freehosting.com/)
+- [Github Pages](http://pages.github.com)
+- [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
+- [Google Cloud](https://cloud.google.com/)
+- [Heroku](http://heroku.com)
+- [Hostinger](https://www.hostinger.in/free-web-hosting)
+- [HyperPHP](http://hyperphp.com/)
+- [InfinityFree](https://infinityfree.net/)
+- [Netlify](http://netlify.com)
+- [Render](http://render.com)
+- [Surge](http://surge.sh)
+- [Vercel](http://vercel.com)
+- [Webhost](https://in.000webhost.com/)
+- [W3 Spaces](https://www.w3schools.com/spaces/)
+
 
 ## Learning Platforms:
 
@@ -72,6 +76,8 @@
 - https://www.tutorialspoint.com/
 - https://www.javatpoint.com/
 - https://www.guru99.com/
+- https://www.fireship.io/
+- https://java5ript.com
 
 ## Youtube Channels:
 
@@ -115,6 +121,7 @@
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
 - [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
+- [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ## Podcasts:
 
@@ -134,30 +141,40 @@
 - [The Vanilla JS Podcast](https://vanillajspodcast.com/)
 - [Web Dev 101 - Front End, Back End, Full Stack](https://open.spotify.com/show/1kMcquypdIElTu4Nu98XPM)
 - [Ladybug Podcast](https://www.ladybug.dev/)
+- [Compressedfm](https://www.compressed.fm/)
 
 ## Playgrounds:
 
+- [Codeanywhere](https://codeanywhere.com/)
 - [Codepen](https://codepen.io/your-work)
 - [CodeSandbox](https://codesandbox.io/)
 - [CodiLink](https://codi.link/)
+- [DartPad](https://dartpad.dev/)
 - [Glitch](https://glitch.com/)
+- [Go Playground](https://play.golang.org/)
+- [Google Colab](https://colab.research.google.com/)
+- [JS Bin](https://jsbin.com/)
 - [JSFiddle](https://jsfiddle.net/)
+- [Kotlin Playground](https://play.kotlinlang.org/)
 - [PlayCode](https://playcode.io/)
+- [Replit](https://repl.it/)
+- [Rust Playground](https://play.rust-lang.org/)
 - [StackBlitz](https://stackblitz.com/)
 - [repit](https://replit.com/)
 
 ## Code Editors:
 
-- Visual Studio Code [VS Code]
-- Sublime Text
 - Atom
 - Brackets
-- Vim
-- Emacs
-- JetBrains WebStorm
-- Espresso
-- Notepad++
 - Bluefish
+- Codespaces
+- Emacs
+- Espresso
+- JetBrains WebStorm
+- Notepad++
+- Sublime Text
+- Vim
+- Visual Studio Code [VS Code]
 
 ## Coding Challenge Platforms:
 
@@ -211,6 +228,7 @@
 - https://remotive.io/
 - https://www.skipthedrive.com/
 - https://angel.co/jobs
+- https://yellowjobs.org
 
 ## Free Quality Photos:
 
