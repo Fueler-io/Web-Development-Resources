@@ -120,6 +120,7 @@
 - [Eli the Computer Guy ](https://www.youtube.com/c/Elithecomputerguypage/featured)
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
+- [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
 - [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ## Podcasts:
@@ -159,6 +160,7 @@
 - [Replit](https://repl.it/)
 - [Rust Playground](https://play.rust-lang.org/)
 - [StackBlitz](https://stackblitz.com/)
+- [repit](https://replit.com/)
 
 ## Code Editors:
 
@@ -225,6 +227,7 @@
 - https://pangian.com/job-travel-remote/
 - https://remotive.io/
 - https://www.skipthedrive.com/
+- https://angel.co/jobs
 - https://yellowjobs.org
 
 ## Free Quality Photos:
