@@ -3,12 +3,15 @@ import DashMobileNavbar from "../navbar/DashMobileNavbar";
 import Sidebar from "../navbar/Sidebar";
 import Image from "next/image";
 import DashTopBar from "../navbar/DashTopBar";
+import ResourceModal from "../modals/SuggestResourceModal";
 import codeIcon from "../../public/images/code-icon.png";
 // import cssIcon from "../../public/images/css3.png";
 // import magnifier from "../../public/images/magnifier.png";
 import laptop from "../../public/images/laptop.png";
+import { url } from "inspector";
 const Layout = ({ children }: any) => {
   const [toggleNav, setToogleNavBar] = React.useState(false);
+  const [showModal, setShowModal] = React.useState(false);
 
   const toggleNavBar = () => {
     setToogleNavBar(!toggleNav);
@@ -18,7 +21,7 @@ const Layout = ({ children }: any) => {
       <DashMobileNavbar toggleNavBar={toggleNavBar} />
       <Sidebar toggleState={toggleNav} toggleNavBar={toggleNavBar} />
       <div className="flex flex-col flex-1 px-4 py-4 overflow-hidden lg:py-8 lg:px-6 xl:px-8">
-        <DashTopBar/>
+        <DashTopBar setShowModal={setShowModal} />
         <div className="border border-black-brand-06 bg-black-brand-08 h-60 rounded flex flex-col items-center justify-center my-4 relative">
           <div className="absolute w-20 h-20 bottom-0 right-5 animate-pulse">
             <Image src={codeIcon} alt="code-icon" />
@@ -37,6 +40,7 @@ const Layout = ({ children }: any) => {
             Place.
           </h1>
         </div>
+        <ResourceModal showModal={showModal} setShowModal={setShowModal} />
         <div className="flex-1 py-4 lg:py-10">{children}</div>
       </div>
     </main>
