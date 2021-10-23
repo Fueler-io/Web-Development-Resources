@@ -2,8 +2,12 @@ import * as React from "react";
 import { supabase } from "../../utils/supabase";
 import { ToggleModalProps } from "../navbar/types";
 import { Formik, Field, Form, ErrorMessage, FormikHelpers } from "formik";
+import * as Yup from 'yup';
 import { FormValues } from "./interface";
 import { toast } from "react-toastify";
+import { ResourceSchema } from "../../utils/yupValidation";
+
+
 
 export default function ResourceModal(props: ToggleModalProps) {
   const initialValues: FormValues = { name: "", link: "", tag: "" };
@@ -38,24 +42,14 @@ export default function ResourceModal(props: ToggleModalProps) {
                 </div>
                 <Formik
                   initialValues={initialValues}
-                  // validate={(values) => {
-                  //   const errors: FormValues = { name: "", link: "", tag: "" };
-                  //   if (!values.name) {
-                  //     errors.name = "Required";
-                  //   } else if (!values.link) {
-                  //     errors.link = "Required";
-                  //   } else if (!values.tag) {
-                  //     errors.tag = "Required";
-                  //   }
-                  //   return errors;
-                  // }}
+                  validationSchema={ResourceSchema}
                   onSubmit={async (values: FormValues, { setSubmitting }:FormikHelpers<FormValues>) => {
                     await submitResource(values);
                     setSubmitting(false);
                     props.setShowModal(false);
                   }}
                 >
-                  {({ isSubmitting }) => (
+                  {({ isSubmitting, errors, touched }) => (
                     <Form className="p-5">
                       <div className="mb-6">
                         <label
@@ -70,11 +64,10 @@ export default function ResourceModal(props: ToggleModalProps) {
                           className="form-input mt-1 block w-full bg-black-brand-01 text-white rounded-lg p-2 "
                           placeholder="w3 schools"
                         />
-                        <ErrorMessage
-                          name="name"
-                          component="div"
-                          className="text-red-500"
-                        />
+                        {errors.name && touched.name ? (
+                          <div className="text-red-700">{errors.name}</div>
+                          ) : null
+                        }
                       </div>
                       <div className="mb-6">
                         <label
@@ -90,11 +83,10 @@ export default function ResourceModal(props: ToggleModalProps) {
                           className="form-input mt-1 block w-full bg-black-brand-01 text-white rounded-lg p-2 "
                           placeholder="https://www.smilebox.com"
                         />
-                        <ErrorMessage
-                          name="link"
-                          component="div"
-                          className="text-red-500"
-                        />
+                        {errors.link && touched.link ? (
+                          <div className="text-red-700">{errors.link}</div>
+                          ) : null
+                        }
                       </div>
                       <div className="mb-6">
                         <label
@@ -118,11 +110,10 @@ export default function ResourceModal(props: ToggleModalProps) {
                           <option value="docs">Docs</option>
                           <option value="playground">Playground</option>
                         </Field>
-                        <ErrorMessage
-                          name="tag"
-                          component="div"
-                          className="text-red-500"
-                        />
+                        {errors.tag && touched.tag ? (
+                          <div className="text-red-700">{errors.tag}</div>
+                          ) : null
+                        }
                       </div>
 
                       <div className="mb-6 text-center">
