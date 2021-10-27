@@ -298,6 +298,10 @@
 - https://www.iconfinder.com/
 - https://remixicon.com/
 - https://heroicons.com/
+- https://friconix.com/
+- https://iconscout.com/
+- https://freeicons.io/
+- https://findicons.com/
 
 ## Fonts:
 
