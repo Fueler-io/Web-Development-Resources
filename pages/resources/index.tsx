@@ -13,7 +13,7 @@ export default function Dashboard() {
       <ul
         role="list"
         className={
-          "grid grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 overflow-y-auto"
+          "grid grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 overflow-y-auto py-4"
         }
       >
         {data && data.data && data.data.map(item => (
