@@ -61,7 +61,7 @@ const LandingPage = () => {
                 Search and filter resources both on desktop and on your mobile phones.
               </p>
             </div>
-            <div className="row-start-1 md:row-start-2 pb-6">
+            <div className="row-start-1 md:col-start-2 pb-6">
               <div className="md:-mr-32 md:my-4 md:ml-24 rounded-full md:rounded-none md:rounded-l-full bg-gradient-to-br from-gray-900 to-black h-96 "></div>
             </div>
           </div>
