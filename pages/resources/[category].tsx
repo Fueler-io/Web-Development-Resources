@@ -64,8 +64,6 @@ export default function DashboardWithFilter() {
       }
     </div>
       </InfiniteScroll>
-
-      {/* <button onClick={getMoreResources} className="bg-green-500 text-white">Load More</button> */}
     </div>
   );
 }

@@ -7,7 +7,6 @@ export const fetchResources = async ({queryKey}: any) => {
   .from<Resource>('resources')
   .select(`*`)
   .filter("tag", "eq", queryKey[1])
-  .range(0, 6)
   return {data, error};
 }
   
