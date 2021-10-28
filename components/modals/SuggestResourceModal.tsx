@@ -2,12 +2,10 @@ import * as React from "react";
 import { supabase } from "../../utils/supabase";
 import { ToggleModalProps } from "../navbar/types";
 import { Formik, Field, Form, ErrorMessage, FormikHelpers } from "formik";
-import * as Yup from 'yup';
+import * as Yup from "yup";
 import { FormValues } from "./interface";
 import { toast } from "react-toastify";
 import { ResourceSchema } from "../../utils/yupValidation";
-
-
 
 export default function ResourceModal(props: ToggleModalProps) {
   const initialValues: FormValues = { name: "", link: "", tag: "" };
@@ -36,13 +34,27 @@ export default function ResourceModal(props: ToggleModalProps) {
                     className="p-1 ml-auto border-0 text-white float-right text-3xl leading-none font-normal outline-none focus:outline-none"
                     onClick={() => props.setShowModal(false)}
                   >
-                    x
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      className="h-5 w-5"
+                      viewBox="0 0 20 20"
+                      fill="currentColor"
+                    >
+                      <path
+                        fill-rule="evenodd"
+                        d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                        clip-rule="evenodd"
+                      />
+                    </svg>
                   </button>
                 </div>
                 <Formik
                   initialValues={initialValues}
                   validationSchema={ResourceSchema}
-                  onSubmit={async (values: FormValues, { setSubmitting }:FormikHelpers<FormValues>) => {
+                  onSubmit={async (
+                    values: FormValues,
+                    { setSubmitting }: FormikHelpers<FormValues>
+                  ) => {
                     await submitResource(values);
                     setSubmitting(false);
                     props.setShowModal(false);
@@ -65,8 +77,7 @@ export default function ResourceModal(props: ToggleModalProps) {
                         />
                         {errors.name && touched.name ? (
                           <div className="text-red-700">{errors.name}</div>
-                          ) : null
-                        }
+                        ) : null}
                       </div>
                       <div className="mb-6">
                         <label
@@ -84,8 +95,7 @@ export default function ResourceModal(props: ToggleModalProps) {
                         />
                         {errors.link && touched.link ? (
                           <div className="text-red-700">{errors.link}</div>
-                          ) : null
-                        }
+                        ) : null}
                       </div>
                       <div className="mb-6">
                         <label
@@ -111,8 +121,7 @@ export default function ResourceModal(props: ToggleModalProps) {
                         </Field>
                         {errors.tag && touched.tag ? (
                           <div className="text-red-700">{errors.tag}</div>
-                          ) : null
-                        }
+                        ) : null}
                       </div>
 
                       <div className="mb-6 text-center">

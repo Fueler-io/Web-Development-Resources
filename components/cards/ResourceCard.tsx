@@ -2,7 +2,7 @@ import { ItemProps } from "./types";
 
 const ResourceCard = ({ item }: ItemProps) => {
   return (
-    <li className="font-mono card cursor-pointer text-gray-brand-02 flex flex-col border border-black-brand-06 bg-black-brand-08 rounded-lg transform hover:-translate-y-1 transition-all duration-200">
+    <li className="card cursor-pointer text-gray-brand-02 flex flex-col border border-black-brand-06 bg-black-brand-08 rounded-lg transform hover:-translate-y-1 transition-all duration-200">
       <div className="p-3 flex flex-col flex-1">
         <div className="flex flex-wrap justify-between">
           <div className="w-full flex items-center">

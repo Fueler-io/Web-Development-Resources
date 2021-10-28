@@ -24,18 +24,18 @@ const LandingPage = () => {
         <section className="text-gray-600 body-font h-100 container px-4 mx-auto">
           <div className="text-center py-6">
             <h1 className="font-sans text-6xl text-white py-4">
-              Unlock Over 1000+ FREE Web Resources
+              Unlock Over 500+ FREE Web Resources
             </h1>
             <p className="text-xl text-gray-brand-02 py-4">
-              Your favorite web development resources packed in one place.
+              Discover amazing web development resources packed in one place.
             </p>
             <Link href="/resources">
-              <a className="bg-green-400 rounded text-white px-6 py-2 text-2xl hover:bg-green-600">Dive In</a>
+              <a className="bg-green-400 rounded text-white px-7 py-3 my-4 inline-block hover:bg-green-600">Dive In</a>
             </Link>
           </div>
           <div className="grid gap-8 md:grid-cols-2 mt-36 mb-10">
             <div className="pb-6">
-              <div className="md:-ml-32 md:my-4 md:mr-24 rounded-full md:rounded-none md:rounded-r-full bg-gradient-to-br from-gray-900 to-black h-96"></div>
+              <div className="md:-ml-32 md:my-4 md:mr-24 rounded-full md:rounded-none md:rounded-r-full bg-gradient-to-l from-gray-900 to-black h-96"></div>
             </div>
             <div className="flex flex-col justify-center">
               <h3 className="text-3xl pt-1 pb-4 text-green-400 font-medium">
@@ -62,14 +62,14 @@ const LandingPage = () => {
               </p>
             </div>
             <div className="row-start-1 md:col-start-2 pb-6">
-              <div className="md:-mr-32 md:my-4 md:ml-24 rounded-full md:rounded-none md:rounded-l-full bg-gradient-to-br from-gray-900 to-black h-96 "></div>
+              <div className="md:-mr-32 md:my-4 md:ml-24 rounded-full md:rounded-none md:rounded-l-full bg-gradient-to-r from-gray-900 to-black h-96 "></div>
             </div>
           </div>
 
 
           <div className="grid gap-8 md:grid-cols-2 mt-36 mb-10">
             <div className="pb-6">
-              <div className="md:-ml-32 md:my-4 md:mr-24 rounded-full md:rounded-none md:rounded-r-full bg-gradient-to-br from-gray-900 to-black h-96"></div>
+              <div className="md:-ml-32 md:my-4 md:mr-24 rounded-full md:rounded-none md:rounded-r-full bg-gradient-to-l from-gray-900 to-black h-96 "></div>
             </div>
             <div className="flex flex-col justify-center">
               <h3 className="text-3xl pt-1 pb-4 text-green-400 font-medium">
@@ -93,7 +93,7 @@ const LandingPage = () => {
 
           <footer className="grid gap-4 grid-cols-3 md:grid-cols-3">
             <ul className="space-y-1 text-gray-brand-02">
-              <li className="pb-4">Social networks</li>
+              <li className="pb-4 text-green-brand-01">Social networks</li>
               <li>
                 <a
                   href="https://twitter.com/"
@@ -114,7 +114,7 @@ const LandingPage = () => {
               </li>
             </ul>
             <ul className="space-y-1 text-gray-brand-02">
-              <li className="pb-4">Other Products</li>
+              <li className="pb-4 text-green-brand-01">Other Products</li>
               <li>
                 <a href="#" className="hover:underline">
                   Dope UI
@@ -130,14 +130,9 @@ const LandingPage = () => {
                   Excuse Me
                 </a>
               </li>
-              <li>
-                <a href="#" className="hover:underline">
-                  Singapour
-                </a>
-              </li>
             </ul>
             <ul className="space-y-1 text-gray-brand-02">
-              <li className="pb-4">Credits</li>
+              <li className="pb-4 text-green-brand-01">Credits</li>
               <li>
                 <a href="#" className="hover:underline">
                    Design
