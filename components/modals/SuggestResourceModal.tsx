@@ -17,7 +17,6 @@ export default function ResourceModal(props: ToggleModalProps) {
       .from("suggested_resources")
       .insert([values]);
     if (error) {
-      console.log(error)
       toast.error("oops! an error occured, kindly try again");
     }
     toast.success("yay 💃, resource has been successfully submitted");

@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <header className="items-center">
       <div className="transition duration-500 ease-in-out transform my-2 ">
-        <div className="flex flex-row items-center p-5 w-full lg:flex-row">
+        <div className="flex flex-row items-center py-5 w-full lg:flex-row">
           <Link href="/">
             <a className="justify-center flex-1 focus:outline-none md:ml-auto md:mr-auto">
               <svg

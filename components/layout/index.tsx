@@ -22,16 +22,10 @@ const Layout = ({ children }: any) => {
       <Sidebar toggleState={toggleNav} toggleNavBar={toggleNavBar} />
       <div className="flex flex-col flex-1 px-4 py-4 overflow-hidden lg:py-8 lg:px-6 xl:px-8">
         <DashTopBar setShowModal={setShowModal} />
-        <div className="border border-black-brand-06 bg-black-brand-08 h-60 rounded flex flex-col items-center justify-center my-4 relative">
+        <div className="border border-black-brand-06 bg-gradient-to-tr from-black-brand-08 to-black h-60 rounded flex flex-col items-center justify-center my-4 relative">
           <div className="absolute w-20 h-20 bottom-0 right-5 animate-pulse">
             <Image src={codeIcon} alt="code-icon" />
           </div>
-          {/* <div className="absolute w-20 h-20 top-5 right-60 animate-pulse">
-            <Image src={magnifier} alt="api-icon" />
-          </div>
-          <div className="absolute w-20 h-20 bottom-5 left-64 animate-pulse">
-            <Image src={laptop} alt="code-icon" />
-          </div> */}
           <div className="absolute w-20 h-20 top-5 left-5 animate-pulse">
             <Image src={laptop} alt="css-icon" />
           </div>

@@ -1,32 +1,62 @@
 import * as React from "react";
 import { useRouter } from "next/router";
 import { GetStaticProps } from "next";
+import InfiniteScroll from "react-infinite-scroll-component";
 import Layout from "../../components/layout";
+import { supabase } from "../../utils/supabase";
 import { QueryClient, useQuery } from "react-query";
 import { dehydrate } from "react-query/hydration";
+import { Resource } from "../../hooks/types";
 import { fetchResources } from "../../hooks/fetchResources";
 import { sidebarLinks } from "../../utils/nav-menu";
 import ResourceCard from "../../components/cards/ResourceCard";
 
 export default function DashboardWithFilter() {
   const router = useRouter();
-  const { data } = useQuery(
-    ["resources", router.query.category],
-    fetchResources
-  );
+  const {data} = useQuery(["resources", router.query.category], fetchResources)
+  const [deet, setDeets] = React.useState<Resource[] | null | undefined>(data?.data);
+  const [hasMore, setHasMore] = React.useState(true);
 
+  const getResourceslength = () => {
+    if (deet) {
+      return deet.length
+    }
+    return 0;
+  }
+
+  const getMoreResources = async () => {
+    const { data, error } = await supabase
+      .from<Resource>("resources")
+      .select(`*`)
+      .filter("tag", "eq", router.query.category)
+      .limit(getResourceslength() + 5)
+    return { data, error };
+  };
+
+  
   return (
     <div>
-      <ul
-        role="list"
-        className={
-          "grid grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 overflow-y-auto py-4"
-        }
+      <InfiniteScroll
+        dataLength={getResourceslength()}
+        next={getMoreResources}
+        hasMore={hasMore}
+        loader={<h3> Loading...</h3>}
+        endMessage={<h4>Nothing more to show</h4>}
       >
-        {data && data.data && data.data.map(item => (
-          <ResourceCard key={item.name} item={item} />
-        ))}
-      </ul>
+        <ul
+          role="list"
+          className={
+            "grid grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 overflow-y-auto py-4"
+          }
+        >
+          {deet &&
+            deet.map((item) => (
+              <ResourceCard key={item.name} item={item} />
+            ))}
+        </ul>
+      </InfiniteScroll>
+
+      {/* <button onClick={getMoreResources} className="bg-green-500 text-white">Load More</button> */}
     </div>
   );
 }

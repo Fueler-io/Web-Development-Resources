@@ -8,7 +8,7 @@ export default function DashTopBar(props: ToggleModalProps) {
         <h1 className="mb-1 text-2xl font-bold text-white">Resources</h1>
       </div>
       <div className="flex justify-between flex-1 space-x-4 md:justify-end">
-        <div className="relative w-full md:max-w-xs">
+        {/* <div className="relative w-full md:max-w-xs">
           <svg
             className="absolute w-5 h-5 text-blue-100 top-3 left-3 opacity-70"
             fill="currentColor"
@@ -26,7 +26,7 @@ export default function DashTopBar(props: ToggleModalProps) {
             className="w-full h-10 pr-4 text-sm font-semibold text-white placeholder-white bg-black-brand-08 border border-black-brand-06 rounded-lg pl-9 placeholder-opacity-70 focus:outline-none focus:ring-2 focus:ring-green-brand-01 focus:ring-opacity-60"
             placeholder="Enter your search term..."
           />
-        </div>
+        </div> */}
         <button onClick={() => props.setShowModal(true)} className="inline-flex bg-black-brand-08 border border-black-brand-06 text-green-brand-01 py-1 px-6 focus:outline-none rounded-lg text-lg hover:animate-bounce hover:text-white">Suggest a resource</button>
       </div>
     </div>
