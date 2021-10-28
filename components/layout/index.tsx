@@ -1,15 +1,8 @@
 import * as React from "react";
 import DashMobileNavbar from "../navbar/DashMobileNavbar";
 import Sidebar from "../navbar/Sidebar";
-import Link from "next/link";
-import Image from "next/image";
 import DashTopBar from "../navbar/DashTopBar";
 import ResourceModal from "../modals/SuggestResourceModal";
-import codeIcon from "../../public/images/code-icon.png";
-// import cssIcon from "../../public/images/css3.png";
-// import magnifier from "../../public/images/magnifier.png";
-import laptop from "../../public/images/laptop.png";
-import { url } from "inspector";
 
 const Layout = ({ children }: any) => {
   const [toggleNav, setToogleNavBar] = React.useState(false);
@@ -37,7 +30,6 @@ const Layout = ({ children }: any) => {
             Place.
           </h1>
         </div>
-
         <ResourceModal showModal={showModal} setShowModal={setShowModal} />
         <div className="flex-1 py-4 lg:py-10">{children}</div>
       </div>

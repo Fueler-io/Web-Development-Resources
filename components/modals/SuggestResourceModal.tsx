@@ -1,8 +1,7 @@
 import * as React from "react";
 import { supabase } from "../../utils/supabase";
 import { ToggleModalProps } from "../navbar/types";
-import { Formik, Field, Form, ErrorMessage, FormikHelpers } from "formik";
-import * as Yup from "yup";
+import { Formik, Field, Form, FormikHelpers } from "formik";
 import { FormValues } from "./interface";
 import { toast } from "react-toastify";
 import { ResourceSchema } from "../../utils/yupValidation";
