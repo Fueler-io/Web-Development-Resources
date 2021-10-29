@@ -79,7 +79,8 @@
 - https://fullstackui.com/
 - https://www.tutorialsteacher.com/
 - https://www.fireship.io/
-- https://java5ript.com
+- https://java5ript.com/
+- https://pluralsight.com/
 
 ## Youtube Channels:
 
@@ -178,6 +179,8 @@
 - Sublime Text
 - Vim
 - Visual Studio Code [VS Code]
+- Komodo editor
+
 
 ## Coding Challenge Platforms:
 
@@ -241,6 +244,7 @@
 - https://stocksnap.io
 - https://freephotos.cc
 - https://kaboompics.com
+- https://www.istockphoto.com/
 
 ## Free Illustration Design:
 
@@ -285,9 +289,10 @@
 ## Web Dev Library
 
 - [A smooth 3D tilt javascript library.](https://micku7zu.github.io/vanilla-tilt.js/)
-
-## Icons:
-
+- [ Create Beautiful Fullscreen Scrolling Websites.](https://alvarotrigo.com/fullPage/#page1)
+- [ a lightweight JavaScript animation library.](https://animejs.com/)
+- [Data visualization library of many developers](https://d3js.org/)
+## Icons
 - http://fontawesome.com
 - http://flaticon.com
 - http://icons8.com
