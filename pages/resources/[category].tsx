@@ -1,32 +1,69 @@
 import * as React from "react";
 import { useRouter } from "next/router";
 import { GetStaticProps } from "next";
+import Image from "next/image";
+import InfiniteScroll from "react-infinite-scroll-component";
+import Loader from "../../public/images/three-dot-loader.svg"
 import Layout from "../../components/layout";
+import { supabase } from "../../utils/supabase";
 import { QueryClient, useQuery } from "react-query";
 import { dehydrate } from "react-query/hydration";
+import { Resource } from "../../hooks/types";
 import { fetchResources } from "../../hooks/fetchResources";
 import { sidebarLinks } from "../../utils/nav-menu";
 import ResourceCard from "../../components/cards/ResourceCard";
 
 export default function DashboardWithFilter() {
   const router = useRouter();
-  const { data } = useQuery(
-    ["resources", router.query.category],
-    fetchResources
-  );
+  const {data, isLoading} = useQuery(["resources", router.query.category], fetchResources)
+  const [deet, setDeets] = React.useState<Resource[] | null | undefined>(data?.data);
+  const [hasMore, setHasMore] = React.useState(true);
 
+  const getResourceslength = () => {
+    if (deet) {
+      return deet.length
+    }
+    return 0;
+  }
+
+  const getMoreResources = async () => {
+    const { data, error } = await supabase
+      .from<Resource>("resources")
+      .select(`*`)
+      .filter("tag", "eq", router.query.category)
+      .limit(getResourceslength() + 5)
+    return { data, error };
+  };
+
+  
   return (
     <div>
-      <ul
-        role="list"
-        className={
-          "grid grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 overflow-y-auto"
-        }
+      <InfiniteScroll
+        dataLength={getResourceslength()}
+        next={getMoreResources}
+        hasMore={hasMore}
+        loader={<h3> Loading...</h3>}
+        endMessage={<h4>Nothing more to show</h4>}
       >
-        {data && data.data && data.data.map(item => (
-          <ResourceCard key={item.name} item={item} />
-        ))}
-      </ul>
+        <div>
+      {
+        isLoading || !data ?
+        <div className="text-center py-14">
+          <Image src={Loader} />
+        </div>
+         : <ul
+         role="list"
+         className={
+           "grid grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 overflow-y-auto py-4"
+         }
+       >
+         {data && data.data && data.data.map(item => (
+           <ResourceCard key={item.name} item={item} />
+         ))}
+       </ul>
+      }
+    </div>
+      </InfiniteScroll>
     </div>
   );
 }

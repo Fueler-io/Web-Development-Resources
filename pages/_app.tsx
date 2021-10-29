@@ -4,8 +4,8 @@ import type { NextPage } from 'next'
 import Head from 'next/head';
 import { QueryClientProvider, QueryClient } from "react-query";
 import { Hydrate } from "react-query/hydration";
-import { ThemeProvider } from "next-themes";
-// import '../styles/globals.css';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import "../styles/index.css";
 
 type NextPageWithLayout = NextPage & {
@@ -23,12 +23,22 @@ export default function MyApp({ Component, pageProps }: AppPropsWithLayout) {
   return getLayout(
     <QueryClientProvider client={queryClient}>
       <Hydrate state={pageProps.dehydratedState}>
-        <ThemeProvider attribute="class">
           <Head>
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
           </Head>
           <Component {...pageProps} /> 
-      </ThemeProvider>
+          <ToastContainer
+              position="top-right"
+              autoClose={5000}
+              hideProgressBar={false}
+              newestOnTop={false}
+              closeOnClick
+              rtl={false}
+              pauseOnFocusLoss
+              draggable
+              pauseOnHover
+              theme="dark"
+            />
       </Hydrate>
     </QueryClientProvider>
     

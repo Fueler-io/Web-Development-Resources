@@ -11,12 +11,17 @@
   "dependencies": {
     "@heroicons/react": "^1.0.4",
     "@supabase/supabase-js": "^1.24.0",
+    "@tailwindcss/forms": "^0.3.4",
+    "formik": "^2.2.9",
     "import": "^0.0.6",
     "next": "latest",
     "next-themes": "^0.0.15",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-query": "^3.26.0"
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-query": "^3.26.0",
+    "react-toastify": "^8.0.3",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
