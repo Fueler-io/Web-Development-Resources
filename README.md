@@ -125,6 +125,9 @@
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
 - [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
 - [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- [Edureka!](https://www.youtube.com/user/edurekaIN)
+- [Envato Tuts+](https://www.youtube.com/c/tutsplus)
+- [Codemy.com](https://www.youtube.com/c/Codemycom)
 
 ## Podcasts:
 
@@ -307,6 +310,11 @@
 - https://iconscout.com/
 - https://freeicons.io/
 - https://findicons.com/
+- https://feathericons.com
+- https://icons.getbootstrap.com
+- https://iconic.app/
+- https://ionic.io/ionicons/v4
+- https://www.fontisto.com/icons
 
 ## Fonts:
 
@@ -334,7 +342,7 @@
    https://uigradients.com/#Bupe
 
 5. Gradient generator
-   cssgradient.io
+   https://cssgradient.io
 
 6. Encycolorpedia
    https://encycolorpedia.com
