@@ -320,6 +320,7 @@
 - https://iconic.app/
 - https://ionic.io/ionicons/v4
 - https://www.fontisto.com/icons
+- https://phosphoricons.com/
 
 ## Fonts:
 
