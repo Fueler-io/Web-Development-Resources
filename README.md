@@ -248,6 +248,7 @@
 - https://freephotos.cc
 - https://kaboompics.com
 - https://www.istockphoto.com/
+- https://www.cleanpng.com/
 
 ## Free Illustration Design:
 
@@ -257,15 +258,19 @@
 - http://iradesign.io
 - http://interfacer.xyz
 - http://blush.design
+- https://bulbman.art/
+- https://www.glazestock.com/
 - https://iconscout.com/illustration-pack/indian-doodle
 - https://openpeeps.com
 - https://app.streamlinehq.com/illustrations/milano
 - https://growwwkit.com/illustrations/phonies/
 - https://storyset.com/
+- https://sketchvalley.com/
 - https://www.pixeltrue.com/
 - https://www.manypixels.co/
 - https://www.humaaans.com/
 - https://isometric.online/
+- https://weareskribbl.com/free-illustrations/
 
 ## 3D Illustrations:
 
