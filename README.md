@@ -84,8 +84,9 @@
 
 ## Youtube Channels:
 
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
 - [The New Boston](https://www.youtube.com/user/thenewboston)
@@ -560,6 +561,9 @@
 
 71. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+    
+72. React Developer Tools
+    https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## Resources for JavaScript
 
