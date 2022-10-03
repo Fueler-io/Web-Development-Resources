@@ -202,6 +202,7 @@
 - https://open.kattis.com
 - https://www.hackerearth.com
 - https://practice.geeksforgeeks.org/
+- https://bigfrontend.dev/
 
 ## Freelancing platforms:
 
