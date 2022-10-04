@@ -129,6 +129,8 @@
 - [Edureka!](https://www.youtube.com/user/edurekaIN)
 - [Envato Tuts+](https://www.youtube.com/c/tutsplus)
 - [Codemy.com](https://www.youtube.com/c/Codemycom)
+- [CS 50](https://www.youtube.com/c/cs50)
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 
 ## Podcasts:
 
