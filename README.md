@@ -511,59 +511,62 @@
 
 56. Design Checklist
     https://www.checklist.design/
-
+    
+57. Design inspiration
+    https://dribbble.com/
+    
 #### YOUTUBE TUTORIALS
 
-57. Free code camp
+58. Free code camp
     https://youtube.com/watch?v=1Rs2ND1ryYc
 
-58. Traversy media
+59. Traversy media
     https://youtube.com/watch?v=yfoY53QXEnI
 
-59. Coding artist
+60. Coding artist
     https://youtube.com/channel/UC15exV5s79D_aYGADudlwpQ
 
-60. Edureka
-    https://youtube.com/watch?v=3_9znKVNe5g
+61. Edureka
+   https://youtube.com/watch?v=3_9znKVNe5g
 
-61. Red Stapler
+62. Red Stapler
     https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg
 
 #### GITHUB REPO
 
-62. Awesome CSS
+633. Awesome CSS
     https://github.com/awesome-css-group/awesome-css
 
-63. 30 seconds of CSS
+64. 30 seconds of CSS
     https://github.com/30-seconds/30-seconds-of-css
 
-64. CSS Protips
+65. CSS Protips
     https://github.com/AllThingsSmitty/css-protips
 
-65. Awesome flexbox
+66. Awesome flexbox
     https://github.com/afonsopacifer/awesome-flexbox
 
-66. Understanding flexbox
+67. Understanding flexbox
     https://github.com/ohansemmanuel/Understanding-Flexbox
 
 #### CHROME EXTENSIONS
 
-67. CSS Peeper
+68. CSS Peeper
     https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en
 
-68. Pesticide
+69. Pesticide
     https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en
 
-69. Stylebot
+70. Stylebot
     https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
 
-70. Perfect Pixel
+71. Perfect Pixel
     https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
 
-71. Colorpick eyedropper
+72. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
     
-72. React Developer Tools
+73. React Developer Tools
     https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## Resources for JavaScript
