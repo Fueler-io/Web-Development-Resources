@@ -253,6 +253,9 @@
 - https://kaboompics.com
 - https://www.istockphoto.com/
 - https://www.cleanpng.com/
+- https://www.freepik.com/
+- https://burst.shopify.com/
+- https://www.freeimages.com/
 
 ## Free Illustration Design:
 
