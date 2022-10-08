@@ -20,6 +20,7 @@
 - [🏢 Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
 - [📚 Web-Dev Library](#web-dev-library)
 - [⛓️ YouTube Channels](#youtube-channels)
+- [📩 HTML EMAIL Resources](#HTML-EMAIL-Resources)
 
 
 
@@ -220,6 +221,21 @@
 - https://www.monster.com
 - https://talent.hubstaff.com
 - https://www.truelancer.com
+
+## HTML EMAIL Resources
+
+1. Cerberus Email
+   https://www.cerberusemail.com
+
+2. Campaign Monitor
+   https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails
+
+3. MJML Article
+   https://mjml.io/getting-started/1
+
+4. My Github Repo for HTML EMAIL
+   https://github.com/Siddharth-Rai-06/HTML-EMAIL-Template.git
+   
 
 ## List of websites to find remote jobs:
 
