@@ -16,10 +16,12 @@
 - [👨🏻‍🏫 Learning Platforms](#learning-platforms)
 - [🎙️ Podcasts](#podcasts)
 - [🏜️ Resources for CSS](#resources-for-css)
+- [⚛️ Resources for React](#resources-for-react)
 - [🈴 Resources for JavaScript](#resources-for-javascript)
 - [🏢 Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
 - [📚 Web-Dev Library](#web-dev-library)
 - [⛓️ YouTube Channels](#youtube-channels)
+- [📩 HTML EMAIL Resources](#HTML-EMAIL-Resources)
 
 
 
@@ -81,11 +83,14 @@
 - https://www.fireship.io/
 - https://java5ript.com/
 - https://pluralsight.com/
+- https://scrimba.com/
+- https://www.educative.io/
 
 ## Youtube Channels:
 
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [CodeParade](https://www.youtube.com/c/CodeParade)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
@@ -129,6 +134,9 @@
 - [Edureka!](https://www.youtube.com/user/edurekaIN)
 - [Envato Tuts+](https://www.youtube.com/c/tutsplus)
 - [Codemy.com](https://www.youtube.com/c/Codemycom)
+- [CS 50](https://www.youtube.com/c/cs50)
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
+- [SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev)
 
 ## Podcasts:
 
@@ -202,6 +210,7 @@
 - https://open.kattis.com
 - https://www.hackerearth.com
 - https://practice.geeksforgeeks.org/
+- https://www.frontendmentor.io/
 - https://bigfrontend.dev/
 
 ## Freelancing platforms:
@@ -220,6 +229,21 @@
 - https://www.monster.com
 - https://talent.hubstaff.com
 - https://www.truelancer.com
+
+## HTML EMAIL Resources
+
+1. Cerberus Email
+   https://www.cerberusemail.com
+
+2. Campaign Monitor
+   https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails
+
+3. MJML Article
+   https://mjml.io/getting-started/1
+
+4. My Github Repo for HTML EMAIL
+   https://github.com/Siddharth-Rai-06/HTML-EMAIL-Template.git
+   
 
 ## List of websites to find remote jobs:
 
@@ -251,6 +275,9 @@
 - https://kaboompics.com
 - https://www.istockphoto.com/
 - https://www.cleanpng.com/
+- https://www.freepik.com/
+- https://burst.shopify.com/
+- https://www.freeimages.com/
 
 ## Free Illustration Design:
 
@@ -272,6 +299,8 @@
 - https://www.manypixels.co/
 - https://www.humaaans.com/
 - https://isometric.online/
+- https://www.artify.co/illustrations-figma
+- https://www.artify.co/vector-illustrations
 - https://weareskribbl.com/free-illustrations/
 
 ## 3D Illustrations:
@@ -302,7 +331,18 @@
 - [ Create Beautiful Fullscreen Scrolling Websites.](https://alvarotrigo.com/fullPage/#page1)
 - [ a lightweight JavaScript animation library.](https://animejs.com/)
 - [Data visualization library of many developers](https://d3js.org/)
+
+
+## Web Dev Tutorials
+
+- https://cssgrid.io/
+- https://flexbox.io/
+- https://javascript30.com/
+- https://commandlinepoweruser.com/
+- https://masteringmarkdown.com/
+
 ## Icons
+
 - http://fontawesome.com
 - http://flaticon.com
 - http://icons8.com
@@ -322,6 +362,9 @@
 - https://iconic.app/
 - https://ionic.io/ionicons/v4
 - https://www.fontisto.com/icons
+- https://phosphoricons.com/
+- https://www.3dicons.com/
+- https://www.iconshock.com/
 
 ## Fonts:
 
@@ -371,6 +414,9 @@
 
 12. Cssbuttons.io
     https://cssbuttons.io/
+
+
+
 
 #### CODE SNIPPETS
 
@@ -565,9 +611,26 @@
 
 72. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
-    
-73. React Developer Tools
+
+72. React Developer Tools
     https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
+#### BONUS CSS RESOURCES
+
+73. CSS clip-path maker
+    https://bennettfeely.com/clippy/
+
+74. CSS Easing functions
+    https://easings.net/
+    
+75. CSS for People Who Hate CSS
+    https://paulcpederson.com/articles/css-for-people-who-hate-css/
+    
+76. CSS Reference
+    https://tympanus.net/codrops/css_reference/
+    
+77. 30 CSS Selectors You Must Memorize
+    https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
 ## Resources for JavaScript
 
@@ -714,7 +777,7 @@
 
 48. JavaScript Promises
     https://www.udacity.com/course/javascript-promises--ud898
-    
+
 49. ES6 - JavaScript Improved
     https://www.udacity.com/course/es6-javascript-improved--ud356
 
@@ -723,11 +786,40 @@
 
 51. Clean Code for Javascript
     https://github.com/ryanmcdermott/clean-code-javascript
-    
+
 50. Mastering JS
     https://masteringjs.io/
     
-51. New Resources are coming soon
+51. JavaScript Design Patterns
+    https://www.patterns.dev/posts/classic-design-patterns/
+
+52. DOM Manipulation Reference
+    https://youmightnotneedjquery.com/
+
+## Resources for React
+1. Beta React JS
+   https://beta.reactjs.org/learn
+
+2. josh w comeau
+   https://www.joshwcomeau.com/
+
+3. Routing v6
+   https://reactrouter.com/en/v6.3.0/getting-started/overview
+
+4. Javatpoint
+   https://www.javatpoint.com/reactjs-tutorial
+
+5. Freecodecamp
+   https://www.freecodecamp.org/news/react-tutorial-build-a-project/
+
+6. Guru99
+   https://www.guru99.com/reactjs-tutorial.html
+
+7. Ibaslogic
+   https://ibaslogic.com/react-tutorial-for-beginners/
+
+8. Geeks For Geeks
+   https://www.geeksforgeeks.org/reactjs-tutorials/ 
 
 
 ## Helpful Chrome Extensions
