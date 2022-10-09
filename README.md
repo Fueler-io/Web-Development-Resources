@@ -129,6 +129,7 @@
 - [Edureka!](https://www.youtube.com/user/edurekaIN)
 - [Envato Tuts+](https://www.youtube.com/c/tutsplus)
 - [Codemy.com](https://www.youtube.com/c/Codemycom)
+- [SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev)
 
 ## Podcasts:
 
@@ -327,6 +328,7 @@
 - https://iconic.app/
 - https://ionic.io/ionicons/v4
 - https://www.fontisto.com/icons
+- https://phosphoricons.com/
 - https://www.3dicons.com/
 - https://www.iconshock.com/
 
