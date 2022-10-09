@@ -84,8 +84,9 @@
 
 ## Youtube Channels:
 
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
 - [The New Boston](https://www.youtube.com/user/thenewboston)
@@ -201,6 +202,7 @@
 - https://open.kattis.com
 - https://www.hackerearth.com
 - https://practice.geeksforgeeks.org/
+- https://bigfrontend.dev/
 
 ## Freelancing platforms:
 
@@ -248,6 +250,7 @@
 - https://freephotos.cc
 - https://kaboompics.com
 - https://www.istockphoto.com/
+- https://www.cleanpng.com/
 
 ## Free Illustration Design:
 
@@ -257,17 +260,21 @@
 - http://iradesign.io
 - http://interfacer.xyz
 - http://blush.design
+- https://bulbman.art/
+- https://www.glazestock.com/
 - https://iconscout.com/illustration-pack/indian-doodle
 - https://openpeeps.com
 - https://app.streamlinehq.com/illustrations/milano
 - https://growwwkit.com/illustrations/phonies/
 - https://storyset.com/
+- https://sketchvalley.com/
 - https://www.pixeltrue.com/
 - https://www.manypixels.co/
 - https://www.humaaans.com/
 - https://isometric.online/
 - https://www.artify.co/illustrations-figma
 - https://www.artify.co/vector-illustrations
+- https://weareskribbl.com/free-illustrations/
 
 ## 3D Illustrations:
 
@@ -559,6 +566,9 @@
 
 71. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+    
+72. React Developer Tools
+    https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## Resources for JavaScript
 
