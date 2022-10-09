@@ -84,8 +84,9 @@
 
 ## Youtube Channels:
 
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
 - [The New Boston](https://www.youtube.com/user/thenewboston)
@@ -202,6 +203,8 @@
 - https://open.kattis.com
 - https://www.hackerearth.com
 - https://practice.geeksforgeeks.org/
+- https://www.frontendmentor.io/
+- https://bigfrontend.dev/
 
 ## Freelancing platforms:
 
@@ -271,6 +274,8 @@
 - https://www.manypixels.co/
 - https://www.humaaans.com/
 - https://isometric.online/
+- https://www.artify.co/illustrations-figma
+- https://www.artify.co/vector-illustrations
 - https://weareskribbl.com/free-illustrations/
 
 ## 3D Illustrations:
@@ -301,7 +306,9 @@
 - [ Create Beautiful Fullscreen Scrolling Websites.](https://alvarotrigo.com/fullPage/#page1)
 - [ a lightweight JavaScript animation library.](https://animejs.com/)
 - [Data visualization library of many developers](https://d3js.org/)
+
 ## Icons
+
 - http://fontawesome.com
 - http://flaticon.com
 - http://icons8.com
@@ -322,6 +329,8 @@
 - https://ionic.io/ionicons/v4
 - https://www.fontisto.com/icons
 - https://phosphoricons.com/
+- https://www.3dicons.com/
+- https://www.iconshock.com/
 
 ## Fonts:
 
@@ -562,6 +571,26 @@
 
 71. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+    
+72. React Developer Tools
+    https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
+#### BONUS CSS RESOURCES
+
+73. CSS clip-path maker
+    https://bennettfeely.com/clippy/
+
+74. CSS Easing functions
+    https://easings.net/
+    
+75. CSS for People Who Hate CSS
+    https://paulcpederson.com/articles/css-for-people-who-hate-css/
+    
+76. CSS Reference
+    https://tympanus.net/codrops/css_reference/
+    
+77. 30 CSS Selectors You Must Memorize
+    https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
 ## Resources for JavaScript
 
@@ -721,7 +750,11 @@
 50. Mastering JS
     https://masteringjs.io/
     
-51. New Resources are coming soon
+51. JavaScript Design Patterns
+    https://www.patterns.dev/posts/classic-design-patterns/
+
+52. DOM Manipulation Reference
+    https://youmightnotneedjquery.com/
 
 
 ## Helpful Chrome Extensions
