@@ -82,6 +82,8 @@
 - https://www.fireship.io/
 - https://java5ript.com/
 - https://pluralsight.com/
+- https://scrimba.com/
+- https://www.educative.io/
 
 ## Youtube Channels:
 
