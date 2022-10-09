@@ -90,6 +90,7 @@
 
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [CodeParade](https://www.youtube.com/c/CodeParade)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
