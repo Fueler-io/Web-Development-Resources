@@ -272,6 +272,8 @@
 - https://www.manypixels.co/
 - https://www.humaaans.com/
 - https://isometric.online/
+- https://www.artify.co/illustrations-figma
+- https://www.artify.co/vector-illustrations
 - https://weareskribbl.com/free-illustrations/
 
 ## 3D Illustrations:
@@ -322,6 +324,8 @@
 - https://iconic.app/
 - https://ionic.io/ionicons/v4
 - https://www.fontisto.com/icons
+- https://www.3dicons.com/
+- https://www.iconshock.com/
 
 ## Fonts:
 
