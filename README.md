@@ -202,6 +202,7 @@
 - https://open.kattis.com
 - https://www.hackerearth.com
 - https://practice.geeksforgeeks.org/
+- https://www.frontendmentor.io/
 - https://bigfrontend.dev/
 
 ## Freelancing platforms:
@@ -304,7 +305,9 @@
 - [ Create Beautiful Fullscreen Scrolling Websites.](https://alvarotrigo.com/fullPage/#page1)
 - [ a lightweight JavaScript animation library.](https://animejs.com/)
 - [Data visualization library of many developers](https://d3js.org/)
+
 ## Icons
+
 - http://fontawesome.com
 - http://flaticon.com
 - http://icons8.com
@@ -570,6 +573,23 @@
 72. React Developer Tools
     https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
+#### BONUS CSS RESOURCES
+
+73. CSS clip-path maker
+    https://bennettfeely.com/clippy/
+
+74. CSS Easing functions
+    https://easings.net/
+    
+75. CSS for People Who Hate CSS
+    https://paulcpederson.com/articles/css-for-people-who-hate-css/
+    
+76. CSS Reference
+    https://tympanus.net/codrops/css_reference/
+    
+77. 30 CSS Selectors You Must Memorize
+    https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
 ## Resources for JavaScript
 
 1. MDN
@@ -728,7 +748,11 @@
 50. Mastering JS
     https://masteringjs.io/
     
-51. New Resources are coming soon
+51. JavaScript Design Patterns
+    https://www.patterns.dev/posts/classic-design-patterns/
+
+52. DOM Manipulation Reference
+    https://youmightnotneedjquery.com/
 
 
 ## Helpful Chrome Extensions
