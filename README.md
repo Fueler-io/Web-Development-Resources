@@ -84,8 +84,9 @@
 
 ## Youtube Channels:
 
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
 - [The New Boston](https://www.youtube.com/user/thenewboston)
@@ -202,6 +203,7 @@
 - https://www.hackerearth.com
 - https://practice.geeksforgeeks.org/
 - https://www.frontendmentor.io/
+- https://bigfrontend.dev/
 
 ## Freelancing platforms:
 
@@ -271,6 +273,8 @@
 - https://www.manypixels.co/
 - https://www.humaaans.com/
 - https://isometric.online/
+- https://www.artify.co/illustrations-figma
+- https://www.artify.co/vector-illustrations
 - https://weareskribbl.com/free-illustrations/
 
 ## 3D Illustrations:
@@ -323,6 +327,8 @@
 - https://iconic.app/
 - https://ionic.io/ionicons/v4
 - https://www.fontisto.com/icons
+- https://www.3dicons.com/
+- https://www.iconshock.com/
 
 ## Fonts:
 
@@ -564,21 +570,24 @@
 71. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
     
+72. React Developer Tools
+    https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
 #### BONUS CSS RESOURCES
 
-72. CSS clip-path maker
+73. CSS clip-path maker
     https://bennettfeely.com/clippy/
 
-73. CSS Easing functions
+74. CSS Easing functions
     https://easings.net/
     
-74. CSS for People Who Hate CSS
+75. CSS for People Who Hate CSS
     https://paulcpederson.com/articles/css-for-people-who-hate-css/
     
-75. CSS Reference
+76. CSS Reference
     https://tympanus.net/codrops/css_reference/
     
-76. 30 CSS Selectors You Must Memorize
+77. 30 CSS Selectors You Must Memorize
     https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
 ## Resources for JavaScript
