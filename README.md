@@ -134,6 +134,8 @@
 - [Edureka!](https://www.youtube.com/user/edurekaIN)
 - [Envato Tuts+](https://www.youtube.com/c/tutsplus)
 - [Codemy.com](https://www.youtube.com/c/Codemycom)
+- [CS 50](https://www.youtube.com/c/cs50)
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev)
 
 ## Podcasts:
@@ -273,6 +275,9 @@
 - https://kaboompics.com
 - https://www.istockphoto.com/
 - https://www.cleanpng.com/
+- https://www.freepik.com/
+- https://burst.shopify.com/
+- https://www.freeimages.com/
 
 ## Free Illustration Design:
 
