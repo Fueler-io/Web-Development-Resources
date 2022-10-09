@@ -16,6 +16,7 @@
 - [👨🏻‍🏫 Learning Platforms](#learning-platforms)
 - [🎙️ Podcasts](#podcasts)
 - [🏜️ Resources for CSS](#resources-for-css)
+- [⚛️ Resources for React](#resources-for-react)
 - [🈴 Resources for JavaScript](#resources-for-javascript)
 - [🏢 Websites to find Remote Jobs](#list-of-websites-to-find-remote-jobs)
 - [📚 Web-Dev Library](#web-dev-library)
@@ -399,6 +400,9 @@
 12. Cssbuttons.io
     https://cssbuttons.io/
 
+
+
+
 #### CODE SNIPPETS
 
 13. Web tools
@@ -773,6 +777,31 @@
 
 52. DOM Manipulation Reference
     https://youmightnotneedjquery.com/
+
+## Resources for React
+1. Beta React JS
+   https://beta.reactjs.org/learn
+
+2. josh w comeau
+   https://www.joshwcomeau.com/
+
+3. Routing v6
+   https://reactrouter.com/en/v6.3.0/getting-started/overview
+
+4. Javatpoint
+   https://www.javatpoint.com/reactjs-tutorial
+
+5. Freecodecamp
+   https://www.freecodecamp.org/news/react-tutorial-build-a-project/
+
+6. Guru99
+   https://www.guru99.com/reactjs-tutorial.html
+
+7. Ibaslogic
+   https://ibaslogic.com/react-tutorial-for-beginners/
+
+8. Geeks For Geeks
+   https://www.geeksforgeeks.org/reactjs-tutorials/ 
 
 
 ## Helpful Chrome Extensions
