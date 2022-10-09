@@ -327,6 +327,15 @@
 - [ a lightweight JavaScript animation library.](https://animejs.com/)
 - [Data visualization library of many developers](https://d3js.org/)
 
+
+## Web Dev Tutorials
+
+- https://cssgrid.io/
+- https://flexbox.io/
+- https://javascript30.com/
+- https://commandlinepoweruser.com/
+- https://masteringmarkdown.com/
+
 ## Icons
 
 - http://fontawesome.com
@@ -594,7 +603,7 @@
 
 71. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
-    
+
 72. React Developer Tools
     https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
@@ -760,7 +769,7 @@
 
 48. JavaScript Promises
     https://www.udacity.com/course/javascript-promises--ud898
-    
+
 49. ES6 - JavaScript Improved
     https://www.udacity.com/course/es6-javascript-improved--ud356
 
@@ -769,7 +778,7 @@
 
 51. Clean Code for Javascript
     https://github.com/ryanmcdermott/clean-code-javascript
-    
+
 50. Mastering JS
     https://masteringjs.io/
     
