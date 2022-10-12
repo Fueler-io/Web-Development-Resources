@@ -135,6 +135,7 @@
 - [Envato Tuts+](https://www.youtube.com/c/tutsplus)
 - [Codemy.com](https://www.youtube.com/c/Codemycom)
 - [CS 50](https://www.youtube.com/c/cs50)
+- [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha/)
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev)
 
