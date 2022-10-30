@@ -417,8 +417,6 @@
     https://cssbuttons.io/
 
 
-
-
 #### CODE SNIPPETS
 
 13. Web tools
@@ -616,6 +614,12 @@
 72. React Developer Tools
     https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
+73. VisBug
+    https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related
+
+74. ColorZilla
+    https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US
+
 #### BONUS CSS RESOURCES
 
 73. CSS clip-path maker
@@ -632,6 +636,9 @@
     
 77. 30 CSS Selectors You Must Memorize
     https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+78. CSS Diner (Awesome way to learn CSS Selectors)
+    https://flukeout.github.io/
 
 ## Resources for JavaScript
 
