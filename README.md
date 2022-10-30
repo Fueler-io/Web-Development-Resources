@@ -36,7 +36,6 @@
 - [Github Pages](http://pages.github.com)
 - [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
 - [Google Cloud](https://cloud.google.com/)
-- [Heroku](http://heroku.com)
 - [Hostinger](https://www.hostinger.in/free-web-hosting)
 - [HyperPHP](http://hyperphp.com/)
 - [InfinityFree](https://infinityfree.net/)
@@ -46,6 +45,7 @@
 - [Vercel](http://vercel.com)
 - [Webhost](https://in.000webhost.com/)
 - [W3 Spaces](https://www.w3schools.com/spaces/)
+- [AwardSpace](https://www.awardspace.com/)
 
 
 ## Learning Platforms:
