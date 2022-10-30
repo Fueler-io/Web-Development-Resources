@@ -134,6 +134,7 @@
 - [Edureka!](https://www.youtube.com/user/edurekaIN)
 - [Envato Tuts+](https://www.youtube.com/c/tutsplus)
 - [Codemy.com](https://www.youtube.com/c/Codemycom)
+- [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha/)
 - [CS 50](https://www.youtube.com/c/cs50)
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 - [SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev)
