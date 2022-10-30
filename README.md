@@ -796,6 +796,12 @@
 52. DOM Manipulation Reference
     https://youmightnotneedjquery.com/
 
+53. Javascript Questions
+    https://github.com/lydiahallie/javascript-questions
+    
+54. Clean Code JavaScript
+    https://github.com/ryanmcdermott/clean-code-javascript
+
 ## Resources for React
 1. Beta React JS
    https://beta.reactjs.org/learn
