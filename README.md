@@ -863,6 +863,12 @@
    https://javascript30.com/
 3. #100DaysCSS
    https://100dayscss.com/
+   
+#### HTML Forms
+
+1. #Web3Forms
+   https://web3forms.com/
+
 
 ![Fueler.io](https://i.ibb.co/HX8NRxy/image.png)
 
