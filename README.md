@@ -85,6 +85,7 @@
 - https://pluralsight.com/
 - https://scrimba.com/
 - https://www.educative.io/
+- https://exercism.org/
 
 ## Youtube Channels:
 
