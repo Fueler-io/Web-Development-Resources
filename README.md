@@ -577,67 +577,73 @@
 62. Red Stapler
     https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg
 
+63. Code With Harry
+    https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
+
+
+
+
 #### GITHUB REPO
 
-633. Awesome CSS
+64. Awesome CSS
     https://github.com/awesome-css-group/awesome-css
 
-64. 30 seconds of CSS
+65. 30 seconds of CSS
     https://github.com/30-seconds/30-seconds-of-css
 
-65. CSS Protips
+66. CSS Protips
     https://github.com/AllThingsSmitty/css-protips
 
-66. Awesome flexbox
+67. Awesome flexbox
     https://github.com/afonsopacifer/awesome-flexbox
 
-67. Understanding flexbox
+68. Understanding flexbox
     https://github.com/ohansemmanuel/Understanding-Flexbox
 
 #### CHROME EXTENSIONS
 
-68. CSS Peeper
+69. CSS Peeper
     https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en
 
-69. Pesticide
+70. Pesticide
     https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en
 
-70. Stylebot
+71. Stylebot
     https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en
 
-71. Perfect Pixel
+72. Perfect Pixel
     https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
 
-72. Colorpick eyedropper
+73. Colorpick eyedropper
     https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
 
-72. React Developer Tools
+74. React Developer Tools
     https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-73. VisBug
+75. VisBug
     https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related
 
-74. ColorZilla
+76. ColorZilla
     https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US
 
 #### BONUS CSS RESOURCES
 
-73. CSS clip-path maker
+77. CSS clip-path maker
     https://bennettfeely.com/clippy/
 
-74. CSS Easing functions
+78. CSS Easing functions
     https://easings.net/
     
-75. CSS for People Who Hate CSS
+79. CSS for People Who Hate CSS
     https://paulcpederson.com/articles/css-for-people-who-hate-css/
     
-76. CSS Reference
+80. CSS Reference
     https://tympanus.net/codrops/css_reference/
     
-77. 30 CSS Selectors You Must Memorize
+81. 30 CSS Selectors You Must Memorize
     https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
-78. CSS Diner (Awesome way to learn CSS Selectors)
+82. CSS Diner (Awesome way to learn CSS Selectors)
     https://flukeout.github.io/
 
 ## Resources for JavaScript
